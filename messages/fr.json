@@ -1,0 +1,108 @@
+{
+  "Home": {
+    "heroSection": {
+      "title": "Renforcer les communautés grâce aux services de santé et de soutien.",
+      "description": "Là où la compassion rencontre l'action dans notre mission de soutien aux orphelins et aux personnes vivant avec le VIH/sida.",
+      "more": "En savoir plus",
+      "donate": "Faire un don"
+    },
+    "aboutSection": {
+      "subtitle": "Salut Orphelins et Malades Infectés",
+      "title": "Nous croyons en la promotion de la résilience, la promotion de l'inclusion et l'autonomisation des communautés.",
+      "content1": "Établie en décembre 2018 à Les Cayes, Haïti. En tant qu'organisation à but non lucratif, notre objectif principal est de fournir une assistance vitale aux enfants orphelins et aux personnes vivant avec le VIH/sida en Haïti. Malgré les nombreux défis rencontrés, y compris la discrimination généralisée, SOMI reste résolument engagé dans son soutien holistique. Nous accordons la priorité à l'aide psychologique et économique aux personnes vivant avec le VIH/sida, en garantissant l'accès au traitement et en promouvant l'adhésion. De plus, nous offrons une assistance éducative et des soins médicaux aux enfants orphelins, dans le but d'alléger leurs fardeaux et de favoriser leur croissance.",
+      "content2": "À travers nos initiatives, nous nous efforçons de lutter contre la stigmatisation, de promouvoir l'inclusion sociale et d'autonomiser les communautés pour construire des avenirs résilients. SOMI Haïti s'engage à avoir un impact durable sur la vie de ceux que nous servons, en promouvant la dignité, l'espoir et le bien-être."
+    },
+    "goalSection": {
+      "subtitle": "Autonomiser",
+      "title": "Créer un changement positif dans notre communauté",
+      "description": "Notre organisation est dédiée à avoir un impact durable sur la par le biais de ressources et de soutien aux personnes dans le besoin. À travers nos programmes et, nous nous efforçons d'autonomiser les individus et de créer un changement positif.",
+      "content1": {
+        "title": "Soins de santé",
+        "description": "Nous nous engageons à garantir l'accès aux services de santé pour tous. Notre objectif est de fournir des soins de santé complets et des services de soutien aux personnes vivant avec le VIH/sida. Nous nous efforçons d'améliorer les résultats de santé et de promouvoir le bien-être pour tous."
+      },
+      "content2": {
+        "title": "Éducation",
+        "description": "Nous croyons que l'éducation est la clé pour libérer le potentiel. À travers des bourses d'études, du tutorat et des programmes de soutien éducatif, nous visons à autonomiser ces enfants avec les connaissances et les compétences dont ils ont besoin pour construire un avenir plus radieux pour eux-mêmes et leurs communautés."
+      },
+      "content3": {
+        "title": "Développement communautaire",
+        "description": "Des communautés solides et résilientes sont la base du développement durable. Notre objectif est de favoriser le développement communautaire grâce à l'autonomisation économique, à l'inclusion sociale et aux projets d'amélioration des infrastructures."
+      },
+      "link": "Faire une contribution"
+    },
+    "detailSection": {
+      "subtitle": "Autonomiser",
+      "title": "Faire une différence dans les communautés à travers le pays",
+      "description": "Grâce à nos efforts dédiés et à nos initiatives communautaires, nous avons réalisé des progrès significatifs dans des domaines tels que l'éducation, les soins de santé et la durabilité environnementale.",
+      "content1": {
+        "title": "Améliorer l'éducation et l'accès aux soins de santé pour tous",
+        "description": "Nous croyons en fournissant une éducation de qualité, des soins de santé et des programmes de développement communautaire pour autonomiser les individus et créer un changement positif. Nous visons à autonomiser les individus pour qu'ils atteignent leur plein potentiel."
+      },
+      "content2": {
+        "title": "Soutenir les objectifs de développement durable",
+        "description": "En soutenant notre organisation, vous ne faites pas seulement une différence dans la vie des individus et des communautés en Haïti, mais vous contribuez également à l'agenda mondial pour un monde plus prospère."
+      },
+      "content3": {
+        "title": "Construire des communautés fortes et résilientes",
+        "description": "Nous créons des environnements où les individus peuvent s'épanouir et surmonter les défis ensemble. Rejoignez-nous dans nos efforts pour autonomiser les communautés, promouvoir la résilience et créer un avenir plus radieux pour tous."
+      }
+    },
+    "reviewSection": {
+      "title": "Ce que les autres disent de nous",
+      "description": "Votre témoignage peut aider à inspirer les autres et à démontrer la puissance du soutien communautaire pour créer un changement significatif. Contactez-nous dès aujourd'hui pour partager votre histoire.",
+      "content1": {
+        "title": "Gratitude envers les soins de santé",
+        "description": "SOMI Haiti m'a fourni les services de santé dont j'avais désespérément besoin. Je leur suis éternellement reconnaissant pour leur soutien dans mon parcours vers une meilleure santé."
+      },
+      "content2": {
+        "title": "Faire une différence",
+        "description": "En tant que bénévole chez SOMI Haiti, j'ai vu de mes propres yeux l'impact de leur travail. Ils font vraiment une différence dans la vie de ceux qu'ils servent."
+      },
+      "content3": {
+        "title": "Transformer les futurs",
+        "description": "L'engagement envers l'éducation de l'équipe de SOMI Haiti a transformé l'avenir de nombreux enfants. J'ai vu la différence que cela fait de mes propres yeux, et je suis fier de soutenir leur mission."
+      }
+    },
+    "teamSection": {
+      "name": "Mme Gigie Clotaire",
+      "description": "Sed non nibh iaculis, posuere diam vitae, consectetur neque. Integer velit ligula, semper sed nisl in, cursus commodo elit. Pellentesque sit amet mi luctus ligula euismod lobortis ultricies et nibh."
+    },
+    "faqs": {
+      "subtitle": "Autonomiser",
+      "title": "Foire aux questions",
+      "questions": [
+        {
+          "question": "Qu'est-ce que SOMI Haiti ?",
+          "answer": "SOMI Haiti, qui signifie 'Salut Orphelins et Malades Infectés', est une organisation à but non lucratif fondée en décembre 2018 par Mme. Rose-Gilène Clotaire à Les Cayes, Haïti. Notre mission est de fournir un soutien et une assistance aux enfants orphelins et aux personnes vivant avec le VIH/sida."
+        },
+        {
+          "question": "Quels services offre SOMI Haiti ?",
+          "answer": "SOMI Haiti propose une gamme de services, notamment un soutien éducatif pour les enfants orphelins affectés par le VIH/sida, des services de santé pour les personnes vivant avec le VIH/sida, des initiatives de développement communautaire et la lutte contre la stigmatisation et la discrimination."
+        },
+        {
+          "question": "Comment puis-je m'impliquer avec SOMI Haiti ?",
+          "answer": "Il existe plusieurs façons de s'impliquer avec SOMI Haiti. Vous pouvez faire un don pour soutenir nos programmes, offrir votre temps et vos compétences en tant que bénévole, participer à des événements de collecte de fonds ou sensibiliser à notre cause sur les réseaux sociaux. Visitez notre page 'Impliquez-vous' pour plus d'informations."
+        },
+        {
+          "question": "Puis-je faire un don à SOMI Haiti ?",
+          "answer": "Oui, vous pouvez faire un don à SOMI Haiti pour soutenir nos programmes et nos initiatives. Vos dons nous aident à fournir une assistance vitale aux enfants orphelins et aux personnes vivant avec le VIH/sida en Haïti. Visitez notre page 'Faire un don' pour en savoir plus sur la manière dont vous pouvez contribuer."
+        },
+        {
+          "question": "Comment SOMI Haiti assure-t-il la transparence et la responsabilité ?",
+          "answer": "SOMI Haiti s'engage à la transparence et à la responsabilité dans tous les aspects de nos opérations. Nous publions régulièrement des rapports financiers et des mises à jour sur notre site web, et nous respectons des pratiques strictes de gestion financière pour garantir que les fonds des donateurs sont utilisés de manière efficace et efficiente."
+        },
+        {
+          "question": "SOMI Haiti travaille-t-il avec d'autres organisations ?",
+          "answer": "Oui, SOMI Haiti collabore avec un réseau d'organisations locales et internationales, d'agences gouvernementales et de groupes communautaires pour maximiser notre impact et notre portée. Nous croyons au pouvoir des partenariats et travaillons en étroite collaboration avec d'autres acteurs pour atteindre nos objectifs."
+        }
+      ]
+    },
+    "footer": {
+      "title": "Connectez-vous avec SOMI Haiti",
+      "description": "Avec votre aide, nous pouvons faire la différence dans la vie de ceux dans le besoin. Rejoignez-nous dans notre mission dès aujourd'hui !",
+      "donate": "Faire une contribution",
+      "terms": "Conditions d'utilisation",
+      "privacy": "Politique de confidentialité"
+    }
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "Home": {
+    "heroSection": {
+      "title": "Strengthening communities through health and support services.",
+      "description": "Where compassion meets action in our mission to support orphans and individuals living with HIV/AIDS",
+      "more": "Learn more",
+      "donate": "Donate"
+    },
+    "aboutSection": {
+      "subtitle": "Salut Orphelins et Malades Infectés",
+      "title": "We believe in fostering resilience, promoting inclusion, and empowering communities",
+      "content1": "Established in December 2018 in Les Cayes, Haiti. As a non-profit organization, our primary goal is to provide vital assistance to orphaned children and individuals living with HIV/AIDS in Haiti. Despite the numerous challenges faced, including pervasive discrimination, SOMI remains steadfast in its commitment to offering holistic support. We prioritize psychological and economic aid for persons living with HIV/AIDS, ensuring access to treatment and promoting adherence. Additionally, we extend educational assistance and medical care to orphaned children, aiming to alleviate their burdens and foster their growth.",
+      "content2": "Through our initiatives, we strive to combat stigma, promote social inclusion, and empower communities to build resilient futures. SOMI Haiti is dedicated to making a lasting impact on the lives of those we serve, promoting dignity, hope, and well-being."
+    },
+    "goalSection": {
+      "subtitle": "Empowering",
+      "title": "Creating positive change in our community",
+      "description": "Our organisation is dedicated to making a lasting impact on the by resources and support to those in need. Through our programs and, we strive to empower individuals and create positive change.",
+      "content1": {
+        "title": "Health Care",
+        "description": "We are dedicated to ensuring access to healthcare services for all. Our goal is to provide comprehensive healthcare and support services to individuals living with HIV/AIDS. We strive to improve health outcomes and promote well-being for all."
+      },
+      "content2": {
+        "title": "Education",
+        "description": "We believe that education is the key to unlocking potential. Through scholarships, tutoring, and educational support programs, we aim to empower these children with the knowledge and skills they need to build a brighter future for themselves and their communities."
+      },
+      "content3": {
+        "title": "Community Development",
+        "description": "Strong, resilient communities are the foundation of sustainable development. Our goal is to foster community development through economic empowerment, social inclusion, and infrastructure improvement projects."
+      },
+      "link": "Make a contribution"
+    },
+    "detailSection": {
+      "subtitle": "Empowering",
+      "title": "Making a difference in communities around the country",
+      "description": "Through our dedicated effort and community-driven initiatives, we made significant progress in area such as education, healthcare and environmental sustainability.",
+      "content1": {
+        "title": " Improving Education and Healthcare Access for All",
+        "description": "We believe in providing quality education, healthcare and community development programs to empower individuals and create positive change. We aim to empower individuals to reach their full potential."
+      },
+      "content2": {
+        "title": "Supporting Sustainable Development Goals",
+        "description": "By supporting our organization, you are not only making a difference in the lives of individuals and communities in Haiti but also contributing to the broader global agenda for a more prosperous world."
+      },
+      "content3": {
+        "title": "Building Strong and Resilient Communities",
+        "description": "We create environments where individuals can thrive and overcome challenges together. Join us in our efforts to empower communities, promote resilience, and create a brighter future for all."
+      }
+    },
+    "reviewSection": {
+      "title": "What others are saying about Us",
+      "description": "Your testimonial can help inspire others and demonstrate the power of community support in creating meaningful change. Contact us to share your story today.",
+      "content1": {
+        "title": "Healthcare Gratitude",
+        "description": "SOMI Haiti provided me with the healthcare services I desperately needed. I'm forever grateful for their support in my journey towards better health."
+      },
+      "content2": {
+        "title": "Making a Difference",
+        "description": "As a volunteer with SOMI Haiti, I've seen firsthand the impact of their work. They are truly making a difference in the lives of those they serve."
+      },
+      "content3": {
+        "title": "Transforming Futures",
+        "description": "The commitment to education by the team at SOMI Haiti has transformed the future for countless children. I've seen the difference it makes firsthand, and I'm proud to support their mission."
+      }
+    },
+    "teamSection": {
+      "name": "Mrs Gigie Clotaire",
+      "description": "Sed non nibh iaculis, posuere diam vitae, consectetur neque. Integer velit ligula, semper sed nisl in, cursus commodo elit. Pellentesque sit amet mi luctus ligula euismod lobortis ultricies et nibh."
+    },
+    "faqs": {
+      "subtitle": "Empowering",
+      "title": "Frequently asked questions",
+      "questions": [
+        {
+          "question": "What is SOMI Haiti?",
+          "answer": "SOMI Haiti, which stands for 'Salut Orphelins et Malades Infectés,' is a non-profit organization founded in December 2018 by Mme. Rose-Gilène Clotaire in Les Cayes, Haiti. Our mission is to provide support and assistance to orphaned children and individuals living with HIV/AIDS."
+        },
+        {
+          "question": "What services does SOMI Haiti offer?",
+          "answer": "SOMI Haiti offers a range of services including educational support for orphaned children affected by HIV/AIDS, healthcare services for individuals living with HIV/AIDS, community development initiatives, and advocacy against stigma and discrimination."
+        },
+        {
+          "question": "How can I get involved with SOMI Haiti?",
+          "answer": "There are several ways to get involved with SOMI Haiti. You can make a donation to support our programs, volunteer your time and skills, participate in fundraising events, or spread awareness about our cause on social media. Visit our 'Get Involved' page for more information."
+        },
+        {
+          "question": "Can I donate to SOMI Haiti?",
+          "answer": "Yes, you can donate to SOMI Haiti to support our programs and initiatives. Your donations help us provide vital assistance to orphaned children and individuals living with HIV/AIDS in Haiti. Visit our 'Donate' page to learn more about how you can contribute."
+        },
+        {
+          "question": "How does SOMI Haiti ensure transparency and accountability?",
+          "answer": "SOMI Haiti is committed to transparency and accountability in all aspects of our operations. We regularly publish financial reports and updates on our website, and we adhere to strict financial management practices to ensure that donor funds are used effectively and efficiently."
+        },
+        {
+          "question": "Does SOMI Haiti work with other organizations?",
+          "answer": "Yes, SOMI Haiti collaborates with a network of local and international organizations, government agencies, and community groups to maximize our impact and reach. We believe in the power of partnerships and work closely with other stakeholders to achieve our goals."
+        }
+      ]
+    },
+    "footer": {
+      "title": "Connect with SOMI Haiti",
+      "description": "With your help, we can make a difference in the lives of those in need. Join us in our mission today!",
+      "donate": "Make a contribution",
+      "terms": "Terms and Conditions",
+      "privacy": "Privacy Policy"
+    }
+  }
+}
