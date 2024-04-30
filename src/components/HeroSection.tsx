@@ -46,7 +46,7 @@ export default function HeroSection({ locale }: { locale: string }) {
               <Link className="btn-primary" href={`/${locale}/donate`}>
                 {donate}
               </Link>
-              <Link className="btn-secondary" href="#">
+              <Link className="btn-secondary" href={`/${locale}/#about`}>
                 {more}
               </Link>
             </div>

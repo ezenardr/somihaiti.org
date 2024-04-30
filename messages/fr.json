@@ -104,5 +104,39 @@
       "terms": "Conditions d'utilisation",
       "privacy": "Politique de confidentialité"
     }
+  },
+  "privacy": {
+    "title": "Politique de confidentialité",
+    "description": "Cette page décrit nos pratiques en matière de collecte, d'utilisation et de divulgation de données personnelles et explique comment nous protégeons vos informations.",
+    "content": [
+      {
+        "section": "Informations que nous collectons",
+        "content": "Nous ne collectons aucune information personnelle auprès des visiteurs de notre site Web. Les informations personnelles font référence aux données pouvant être utilisées pour identifier une personne, telles que le nom, l'adresse e-mail ou le numéro de téléphone. Vous pouvez naviguer sur notre site de manière anonyme sans avoir à divulguer de données personnelles."
+      },
+      {
+        "section": "Cookies et autres technologies de suivi",
+        "content": "Nous n'utilisons pas de cookies ni d'autres technologies de suivi sur notre site Web. Les cookies sont de petits fichiers stockés sur votre appareil et utilisés pour suivre votre comportement de navigation. Bien que nous n'utilisions pas de cookies nous-mêmes, veuillez noter que les services tiers intégrés à notre site, tels que les vidéos intégrées ou les widgets de médias sociaux, peuvent utiliser des cookies ou des technologies similaires. Nous n'avons pas le contrôle sur ces services tiers et vous encourageons à consulter leurs politiques de confidentialité."
+      },
+      {
+        "section": "Liens vers des tiers",
+        "content": "Notre site Web peut contenir des liens vers des sites Web tiers pour votre commodité. Ces sites tiers ont leurs propres politiques de confidentialité, qui peuvent différer des nôtres. Nous ne sommes pas responsables des pratiques de confidentialité ou du contenu de ces sites Web. Nous vous encourageons à consulter les politiques de confidentialité de tous les sites tiers que vous visitez."
+      },
+      {
+        "section": "Confidentialité des enfants",
+        "content": "Notre site Web n'est pas destiné aux enfants de moins de 13 ans, et nous ne collectons pas sciemment d'informations personnelles auprès d'enfants. Si vous avez moins de 13 ans, veuillez ne pas fournir d'informations personnelles sur notre site Web. Si vous pensez que nous avons collecté involontairement des informations personnelles auprès d'un enfant de moins de 13 ans, veuillez nous contacter immédiatement, et nous prendrons les mesures appropriées pour supprimer ces informations."
+      },
+      {
+        "section": "Sécurité des données",
+        "content": "Bien que nous ne collectons pas de données personnelles, nous prenons des mesures de sécurité appropriées pour protéger toutes les informations non personnelles collectées via notre site Web contre tout accès, divulgation, altération ou destruction non autorisés. Nous examinons régulièrement nos procédures de sécurité pour nous assurer qu'elles sont à jour et efficaces."
+      },
+      {
+        "section": "Modifications de cette politique",
+        "content": "Nous pouvons mettre à jour cette politique de confidentialité de temps à autre pour refléter les changements dans nos pratiques ou les exigences légales. Toutes les modifications seront publiées sur cette page, et la date d'entrée en vigueur sera indiquée en haut de la page. Nous vous encourageons à consulter régulièrement cette politique de confidentialité pour toute modification. Votre utilisation continue du site après la publication des modifications constitue votre acceptation de ces modifications."
+      },
+      {
+        "section": "Contactez-nous",
+        "content": "Si vous avez des questions ou des préoccupations concernant notre politique de confidentialité ou les pratiques de notre site Web, veuillez nous contacter à [adresse e-mail ou adresse]. Nous nous engageons à répondre rapidement et en toute transparence à toute demande ou plainte."
+      }
+    ]
   }
 }
