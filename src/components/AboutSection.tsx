@@ -13,7 +13,7 @@ export default function AboutSection() {
     aboutSection: { title, content1, content2, subtitle },
   } = messages.Home;
   return (
-    <section>
+    <section id={"about"}>
       <div className="mx-auto max-w-screen-xl px-4 py-16 sm:px-6 sm:py-24 lg:px-8">
         <div className="max-w-3xl">
           <motion.h3

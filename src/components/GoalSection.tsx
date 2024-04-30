@@ -21,7 +21,7 @@ export default function GoalSection({ locale }: { locale: string }) {
     },
   } = messages.Home;
   return (
-    <section className="bg-[#eaf4f9] text-gray-950">
+    <section id={"goalSection"} className="bg-[#eaf4f9] text-gray-950">
       <div className="mx-auto max-w-screen-xl px-4 py-8 sm:px-6 sm:py-12 lg:px-8 lg:py-16">
         <div className="mx-auto max-w-lg text-center">
           <motion.h3

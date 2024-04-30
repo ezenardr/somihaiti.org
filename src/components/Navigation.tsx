@@ -19,33 +19,17 @@ export default function Navigation() {
                 <li>
                   <Link
                     className="text-neutral-200 transition hover:text-color-primary"
-                    href="#"
+                    href={`/${locale}/#about`}
                   >
-                    About Us
+                    {`${locale === "en" ? "About Us" : "Qui somme-nous"}`}
                   </Link>
                 </li>
                 <li>
                   <Link
                     className="text-neutral-200 transition hover:text-color-primary"
-                    href="#"
+                    href={`/${locale}/#goalSection`}
                   >
-                    What we do
-                  </Link>
-                </li>
-                <li>
-                  <Link
-                    className="text-neutral-200 transition hover:text-color-primary"
-                    href="#"
-                  >
-                    Activities
-                  </Link>
-                </li>
-                <li>
-                  <Link
-                    className="text-neutral-200 transition hover:text-color-primary"
-                    href="#"
-                  >
-                    Blog
+                    {`${locale === "en" ? "What we do" : "Ce que nous faisons"}`}
                   </Link>
                 </li>
                 <li>
@@ -71,22 +55,12 @@ export default function Navigation() {
             </div>
 
             <div className="block md:hidden">
-              <button className="rounded bg-gray-100 p-2 text-gray-600 transition hover:text-gray-600/75">
-                <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  className="h-5 w-5"
-                  fill="none"
-                  viewBox="0 0 24 24"
-                  stroke="currentColor"
-                  strokeWidth="2"
-                >
-                  <path
-                    strokeLinecap="round"
-                    strokeLinejoin="round"
-                    d="M4 6h16M4 12h16M4 18h16"
-                  />
-                </svg>
-              </button>
+              <Link
+                className="text-neutral-200 transition hover:text-color-primary"
+                href={`/${locale === "en" ? "fr" : "en"}`}
+              >
+                {locale === "en" ? "Français" : "English"}
+              </Link>
             </div>
           </div>
         </div>

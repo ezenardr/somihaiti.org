@@ -42,7 +42,7 @@ export default function FooterSection({ locale }: { locale: string }) {
           <ul className="flex flex-wrap justify-center gap-4 text-xs lg:justify-end">
             <li>
               <Link
-                href="#"
+                href={`${locale}/terms&conditions`}
                 className="text-gray-500 transition hover:opacity-75"
               >
                 {terms}
@@ -50,7 +50,7 @@ export default function FooterSection({ locale }: { locale: string }) {
             </li>
             <li>
               <Link
-                href="#"
+                href={`/${locale}/privacy`}
                 className="text-gray-500 transition hover:opacity-75"
               >
                 {privacy}
