@@ -1,9 +1,9 @@
 import type { Metadata } from "next";
-import { Inter } from "next/font/google";
+import { DM_Sans } from "next/font/google";
 import "./globals.css";
 import { NextIntlClientProvider, useMessages } from "next-intl";
 
-const inter = Inter({ subsets: ["latin"] });
+const dm_Sans = DM_Sans({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Somi Haiti",
@@ -20,7 +20,7 @@ export default function RootLayout({
   const messages = useMessages();
   return (
     <html lang={locale}>
-      <body className={inter.className}>
+      <body className={dm_Sans.className}>
         <NextIntlClientProvider locale={locale} messages={messages}>
           {children}
         </NextIntlClientProvider>
