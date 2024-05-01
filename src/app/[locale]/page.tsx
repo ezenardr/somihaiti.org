@@ -14,7 +14,7 @@ export default function Home({
   params: { locale: string };
 }) {
   return (
-    <main className={"relative"}>
+    <main className={"relative overflow-x-hidden"}>
       <Navigation />
       <HeroSection locale={locale} />
       <AboutSection />
