@@ -29,8 +29,8 @@ export default function FAQS() {
       <div className="space-y-4 mx-auto max-w-screen-xl">
         {questions.map(({ question, answer }, index, _) => (
           <motion.details
-            {...variants("up", 0.1)}
             key={index}
+            {...variants("up", 0.1)}
             className="group [&_summary::-webkit-details-marker]:hidden border border-[#eaf4f9] border-b-blue-100"
           >
             <summary className="flex cursor-pointer items-center justify-between gap-1.5 rounded-lg  p-4 text-gray-900">

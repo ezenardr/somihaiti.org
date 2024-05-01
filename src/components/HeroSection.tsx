@@ -7,9 +7,9 @@ import { Messages } from "@/global";
 
 export default function HeroSection({ locale }: { locale: string }) {
   const imagesForCarousel = [
-    "https://images.unsplash.com/photo-1535043883-2548fb805573?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "https://images.unsplash.com/photo-1542319272-42dba4f554be?q=80&w=1369&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "https://images.unsplash.com/photo-1548102249-acdce64fffbd?q=80&w=1632&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "https://ik.imagekit.io/6sukwfzbd/2_v6t_b7xNs.webp?updatedAt=1714556850844",
+    "https://ik.imagekit.io/6sukwfzbd/1_odBFs37vf.webp?updatedAt=1714556850344",
+    "https://ik.imagekit.io/6sukwfzbd/3_NETneBkr3.webp?updatedAt=1714556850275",
   ];
   // @ts-ignore
   const messages: Messages = useMessages();

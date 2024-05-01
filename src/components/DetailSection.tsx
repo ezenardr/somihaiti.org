@@ -1,6 +1,6 @@
 "use client";
 import Image from "next/image";
-import Img4 from "@/assets/img/4.jpg";
+import Img4 from "@/assets/img/4.webp";
 import Develop from "@/assets/img/develop.jpg";
 import Com from "@/assets/img/com.jpg";
 import { useMessages } from "next-intl";

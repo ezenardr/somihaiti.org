@@ -21,7 +21,7 @@ export default function ImageSlider({
   direction?: "up" | "down";
 }) {
   const [currentIndex, setCurrentIndex] = useState(0);
-  const [loading, setLoading] = useState(false);
+  // const [loading, setLoading] = useState(false);
   const [loadedImages, setLoadedImages] = useState<string[]>([]);
 
   const handleNext = () => {
@@ -41,7 +41,7 @@ export default function ImageSlider({
   }, []);
 
   const loadImages = () => {
-    setLoading(true);
+    // setLoading(true);
     const loadPromises = images.map((image) => {
       return new Promise((resolve, reject) => {
         const img = new Image();
@@ -54,7 +54,7 @@ export default function ImageSlider({
     Promise.all(loadPromises)
       .then((loadedImages) => {
         setLoadedImages(loadedImages as string[]);
-        setLoading(false);
+        // setLoading(false);
       })
       .catch((error) => console.error("Failed to load images", error));
   };
@@ -143,6 +143,7 @@ export default function ImageSlider({
             exit={direction === "up" ? "upExit" : "downExit"}
             variants={slideVariants}
             className="image h-full w-full absolute inset-0 object-cover object-center"
+            alt={"Image of children"}
           />
         </AnimatePresence>
       )}
