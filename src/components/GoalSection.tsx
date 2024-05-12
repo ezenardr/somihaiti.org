@@ -1,6 +1,6 @@
 "use client";
 import { Book1, Health, People } from "iconsax-react";
-import Link from "next/link";
+import { Link } from 'next-view-transitions'
 import { useMessages } from "next-intl";
 import { Messages } from "@/global";
 import { motion } from "framer-motion";

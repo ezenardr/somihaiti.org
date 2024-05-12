@@ -1,5 +1,5 @@
 "use client";
-import Link from "next/link";
+import { Link } from 'next-view-transitions'
 import { useMessages, useLocale } from "next-intl";
 import { type Messages } from "@/global";
 import { Facebook, Instagram } from "iconsax-react";

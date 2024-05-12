@@ -1,7 +1,7 @@
 "use client";
 import ImageSlider from "@/components/ImageSlider";
 import { motion } from "framer-motion";
-import Link from "next/link";
+import { Link } from 'next-view-transitions'
 import { useMessages } from "next-intl";
 import { Messages } from "@/global";
 

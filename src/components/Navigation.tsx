@@ -1,7 +1,7 @@
 import { useLocale,useMessages } from "next-intl";
 import Image from "next/image";
 import Logo from "@/assets/img/logos/logo-simple.png";
-import Link from "next/link";
+import { Link } from 'next-view-transitions'
 import { Translate } from "iconsax-react";
 import { Messages } from "@/global";
 
