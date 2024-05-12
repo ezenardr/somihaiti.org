@@ -16,12 +16,12 @@ export default function AboutSection() {
     <section id={"about"}>
       <div className="mx-auto max-w-screen-xl px-4 py-16 sm:px-6 sm:py-24 lg:px-8">
         <div className="max-w-3xl">
-          <motion.h3
+          <motion.p
             {...variants("left", 0.2)}
             className={"text-sm md:text-md font-normal text-color-primary pb-2"}
           >
             {subtitle}
-          </motion.h3>
+          </motion.p>
           <motion.h2
             {...variants("left", 0)}
             className="text-3xl font-bold sm:text-4xl"

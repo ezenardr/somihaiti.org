@@ -73,9 +73,9 @@ export default function GoalSection({ locale }: { locale: string }) {
           >
             <People size="32" color="#e53d4b" variant="TwoTone" />
 
-            <h4 className="mt-4 text-xl font-bold text-gray-900">
+            <h2 className="mt-4 text-xl font-bold text-gray-900">
               {content3.title}
-            </h4>
+            </h2>
 
             <p className="mt-1 text-sm text-gray-700">{content3.description}</p>
           </motion.div>

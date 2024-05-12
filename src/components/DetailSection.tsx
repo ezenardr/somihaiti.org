@@ -57,11 +57,11 @@ export default function DetailSection() {
                 className="h-56 w-full rounded-md object-cover"
               />
               <div className="mt-2">
-                <h4
+                <p
                   className={"mt-8 text-xl text-center font-bold text-gray-900"}
                 >
                   {content1.title}
-                </h4>
+                </p>
                 <p className={"mt-1 text-sm text-center text-gray-700"}>
                   {content1.description}
                 </p>
@@ -79,11 +79,11 @@ export default function DetailSection() {
                 className="h-56 w-full rounded-md object-cover"
               />
               <div className="mt-2">
-                <h4
+                <p
                   className={"mt-8 text-xl text-center font-bold text-gray-900"}
                 >
                   {content2.title}
-                </h4>
+                </p>
                 <p className={"mt-1 text-sm text-center text-gray-700"}>
                   {content2.description}
                 </p>
@@ -101,11 +101,11 @@ export default function DetailSection() {
                 className="h-56 w-full rounded-md object-cover"
               />
               <div className="mt-2">
-                <h4
+                <p
                   className={"mt-8 text-xl text-center font-bold text-gray-900"}
                 >
                   {content3.title}
-                </h4>
+                </p>
                 <p className={"mt-1 text-sm text-center text-gray-700"}>
                   {content3.description}
                 </p>

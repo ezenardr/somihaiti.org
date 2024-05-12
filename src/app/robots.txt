@@ -1,4 +1,4 @@
 User-Agent: *
 Allow: /
 
-Sitemap: https://wenshair.com/sitemap.xml
+Sitemap: https://somihaiti.org/sitemap.xml
