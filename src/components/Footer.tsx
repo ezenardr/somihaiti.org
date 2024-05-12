@@ -10,7 +10,8 @@ export default function FooterSection() {
   const locale = useLocale();
   // @ts-ignore
   const messages: Messages = useMessages();
-  const { title, description, donate, terms, privacy } = messages.Home.footer;
+  const { title, description, donate, terms, privacy,right } = messages.Home.footer;
+  const date = new Date();
   return (
     <footer className="bg-white">
       <div className="mx-auto max-w-screen-xl px-4 pb-8 pt-16 sm:px-6 lg:px-8 lg:pt-24">
@@ -50,6 +51,7 @@ export default function FooterSection() {
               </Link>
             </li>
           </ul>
+          <p className={"text-gray-500 text-xs flex justify-center mt-8 md:mt-0"}>&copy; {`${date.getFullYear()} ${right} -`} <Link href={"https://webwazedigital.com"} className={"text-color-primary"} target={"_blank"}> Web Waze Digital</Link></p>
           <ul className="mt-8 flex justify-center gap-6 sm:mt-0 lg:justify-end">
             <li>
               <Link
