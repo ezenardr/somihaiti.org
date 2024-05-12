@@ -76,24 +76,24 @@
           "answer": "SOMI Haiti, qui signifie 'Salut Orphelins et Malades Infectés', est une organisation à but non lucratif fondée en décembre 2018 par Mme. Rose-Gilène Clotaire à Les Cayes, Haïti. Notre mission est de fournir un soutien et une assistance aux enfants orphelins et aux personnes vivant avec le VIH/sida."
         },
         {
-          "question": "Quels services offre SOMI Haiti ?",
-          "answer": "SOMI Haiti propose une gamme de services, notamment un soutien éducatif pour les enfants orphelins affectés par le VIH/sida, des services de santé pour les personnes vivant avec le VIH/sida, des initiatives de développement communautaire et la lutte contre la stigmatisation et la discrimination."
+          "question": "Y at-il une différence entre VIH et SIDA?",
+          "answer": "Oui.-Le virus de l’immunodéficience humaine (VIH) est une infection qui attaque le système immunitaire de l’organisme, en particulier les globules blancs. Cependant le VIH met en général plusieurs années avant de détruire les défenses immunitaires. On ne parle de SIDA que lorsqu’une personne développe une maladie opportuniste. Quand une personne a le SIDA c’est qu’elle est déjà forcément infectée par le VIH. Mais toutes personnes infectées par le VIH ne développent pas forcément le SIDA."
         },
         {
-          "question": "Comment puis-je m'impliquer avec SOMI Haiti ?",
-          "answer": "Il existe plusieurs façons de s'impliquer avec SOMI Haiti. Vous pouvez faire un don pour soutenir nos programmes, offrir votre temps et vos compétences en tant que bénévole, participer à des événements de collecte de fonds ou sensibiliser à notre cause sur les réseaux sociaux. Visitez notre page 'Impliquez-vous' pour plus d'informations."
+          "question": "Quel conseil clé pour un enfant né avec le VIH (transmission verticale)?",
+          "answer": "La vie reste et demeure un cadeau précieux. Il ne faut pas vous sous-estimer. Ne vous laissez pas intimider, aucune forme de discrimination ne doit vous atteindre. Travaillez dur pour vos objectifs! Allez au bout de vos rêves!"
         },
         {
           "question": "Puis-je faire un don à SOMI Haiti ?",
           "answer": "Oui, vous pouvez faire un don à SOMI Haiti pour soutenir nos programmes et nos initiatives. Vos dons nous aident à fournir une assistance vitale aux enfants orphelins et aux personnes vivant avec le VIH/sida en Haïti. Visitez notre page 'Faire un don' pour en savoir plus sur la manière dont vous pouvez contribuer."
         },
         {
-          "question": "Comment SOMI Haiti assure-t-il la transparence et la responsabilité ?",
-          "answer": "SOMI Haiti s'engage à la transparence et à la responsabilité dans tous les aspects de nos opérations. Nous publions régulièrement des rapports financiers et des mises à jour sur notre site web, et nous respectons des pratiques strictes de gestion financière pour garantir que les fonds des donateurs sont utilisés de manière efficace et efficiente."
+          "question": "Une mère infectée par le VIH peut-elle donner naissance à un bébé sain?",
+          "answer": " Oui, c'est possible. Cette mère doit avoir un résultat de charge virale indétectable. Ensuite, dès les premiers mois de sa grossesse, elle doit se rendre à l'hopital pour être prise en charge, durant la période et jusqu'à l'accouchement."
         },
         {
-          "question": "SOMI Haiti travaille-t-il avec d'autres organisations ?",
-          "answer": "Oui, SOMI Haiti collabore avec un réseau d'organisations locales et internationales, d'agences gouvernementales et de groupes communautaires pour maximiser notre impact et notre portée. Nous croyons au pouvoir des partenariats et travaillons en étroite collaboration avec d'autres acteurs pour atteindre nos objectifs."
+          "question": "Une personne vivant avec le VIH peut-elle se permettre d'avoir un partenaire non infecté?",
+          "answer": " Oui. Dans le cas où la personne infectée a un charge virale indétectable, cela signifie qu'elle ne peut transmettre le virus. Dans le cas contraire, le partenaire non infecté peut choisir le PREP ou les deux (2) décident ensemble de faire usage du préservatif."
         }
       ]
     },
