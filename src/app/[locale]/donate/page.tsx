@@ -16,7 +16,7 @@ export default function Donate() {
   return (
       <main className={"bg-[#eaf4f9]"}>
         <Navigation/>
-        <section className=" text-gray-800">
+        <section className=" text-gray-800 pt-12 md:pt-0">
           <div
               className=" flex flex-col justify-center p-6 mx-auto sm:py-12 lg:py-24 lg:flex-row lg:justify-between">
             <div
