@@ -20,9 +20,9 @@ export default function TeamSection() {
           <Image src={Clotaire} alt="Image of Mrs Gigie Clotaire" />
         </motion.div>
         <motion.div {...variants("left", 0.1)} className="flex flex-col">
-          <h4 className="text-lg font-semibold text-left cmd:text-left">
+          <p className="text-lg font-semibold text-left cmd:text-left">
             {name}
-          </h4>
+          </p>
           <p className="text-gray-400">{description}</p>
         </motion.div>
       </div>

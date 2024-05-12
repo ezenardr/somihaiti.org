@@ -4,6 +4,7 @@ import Link from "next/link";
 import Image from "next/image";
 import Logo from "@/assets/img/logos/logo-simple.png";
 import { Translate } from "iconsax-react";
+import FooterSection from "@/components/Footer";
 
 export default function Privacy() {
   const locale = useLocale();
@@ -66,6 +67,7 @@ export default function Privacy() {
           </div>
         </div>
       </section>
+      <FooterSection/>
     </main>
   );
 }
