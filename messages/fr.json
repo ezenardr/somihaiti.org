@@ -138,5 +138,18 @@
         "content": "Si vous avez des questions ou des préoccupations concernant notre politique de confidentialité ou les pratiques de notre site Web, veuillez nous contacter à [adresse e-mail ou adresse]. Nous nous engageons à répondre rapidement et en toute transparence à toute demande ou plainte."
       }
     ]
+  },
+  "donate": {
+    "hero": {
+      "first": "Faites",
+      "afterFirst": "la Différence ! Faites un",
+      "second": " Don",
+      "afterSecond": "Aujourd'hui",
+      "description": "Chaque contribution nous aide à fournir un soutien essentiel, de l'aide à l'éducation aux services de santé, et favorise un changement positif dans nos communautés. Rejoignez-nous pour faire une différence et faites un don dès aujourd'hui !"
+    },
+    "donateSection": {
+      "zelle": "Nemo deserunt possimus quo provident recusandae! Dolores qui architecto omnis pariatur eos voluptatibus sequi cum, non nesciunt aspernatur a ?",
+      "moncash": "Nemo deserunt possimus quo provident recusandae! Dolores qui architecto omnis pariatur eos voluptatibus sequi cum, non nesciunt aspernatur a ?"
+    }
   }
 }

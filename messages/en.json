@@ -138,5 +138,18 @@
         "content": "If you have any questions or concerns about our privacy policy or the practices of our website, please contact us at [contact email or address]. We are committed to addressing any inquiries or complaints promptly and transparently."
       }
     ]
-  }
+  },
+  "donate": {
+    "hero" : {
+      "first" : "Make",
+      "afterFirst" : "a Difference !",
+      "second" : "Donate",
+      "afterSecond" : "Today",
+      "description" : "Every contribution helps us provide essential support, from educational assistance to healthcare services, and promotes positive change in our communities. Join us in making a difference and donate today!"
+    },
+    "donateSection": {
+      "zelle": "Nemo deserunt possimus quo provident recusandae! Dolores qui architecto omnis pariatur eos voluptatibus sequi cum, non nesciunt aspernatur a?",
+      "moncash": "Nemo deserunt possimus quo provident recusandae! Dolores qui architecto omnis pariatur eos voluptatibus sequi cum, non nesciunt aspernatur a?"
+    }
+   }
 }

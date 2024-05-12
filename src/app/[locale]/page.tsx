@@ -23,7 +23,7 @@ export default function Home({
       <ReviewSection />
       <TeamSection />
       <FAQS />
-      <FooterSection locale={locale} />
+      <FooterSection />
     </main>
   );
 }

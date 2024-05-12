@@ -1,9 +1,8 @@
-import { useLocale } from "next-intl";
+import { useLocale,useMessages } from "next-intl";
 import Image from "next/image";
 import Logo from "@/assets/img/logos/logo-simple.png";
 import Link from "next/link";
 import { Translate } from "iconsax-react";
-import { useMessages } from "next-intl";
 import { Messages } from "@/global";
 
 export default function Navigation() {
@@ -57,7 +56,7 @@ export default function Navigation() {
             <div className="sm:flex sm:gap-4 hidden md:block">
               <Link
                 className="btn btn-primary shadow text-neutral-200"
-                href="#"
+                href={`/${locale}/donate`}
               >
                 {donate}
               </Link>

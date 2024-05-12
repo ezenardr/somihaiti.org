@@ -1,12 +1,13 @@
 "use client";
 import Link from "next/link";
-import { useMessages } from "next-intl";
+import { useMessages, useLocale } from "next-intl";
 import { type Messages } from "@/global";
 import { Facebook, Instagram } from "iconsax-react";
 import { motion } from "framer-motion";
 import { variants } from "@/utils/variant";
 
-export default function FooterSection({ locale }: { locale: string }) {
+export default function FooterSection() {
+  const locale = useLocale();
   // @ts-ignore
   const messages: Messages = useMessages();
   const { title, description, donate, terms, privacy } = messages.Home.footer;
