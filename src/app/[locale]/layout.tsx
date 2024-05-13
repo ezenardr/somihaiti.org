@@ -8,6 +8,7 @@ const dm_Sans = DM_Sans({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Somi Haiti",
+  metadataBase : new URL("https://somihaiti.org"),
   description: "Strengthening communities through health and support services.",
 };
 
