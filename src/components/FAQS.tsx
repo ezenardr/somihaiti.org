@@ -1,13 +1,15 @@
 "use client";
-import { useMessages } from "next-intl";
-import { Messages } from "@/global";
-import { motion } from "framer-motion";
-import { variants } from "@/utils/variant";
+import {useMessages} from "next-intl";
+import {Messages} from "@/global";
+import {motion} from "framer-motion";
+import {variants} from "@/utils/variant";
+import {Whatsapp} from "iconsax-react";
+import {Link} from "next-view-transitions";
 
 export default function FAQS() {
   // @ts-ignore
   const messages: Messages = useMessages();
-  const { title, subtitle, questions } = messages.Home.faqs;
+  const {title, subtitle, btn, questions} = messages.Home.faqs;
   return (
     <section className=" bg-[#eaf4f9] text-gray-950 py-8 sm:py-12 lg:py-16 ">
       <div className="mx-auto max-w-screen-xl px-4  sm:px-6  lg:px-8 ">
@@ -27,7 +29,7 @@ export default function FAQS() {
         </div>
       </div>
       <div className="space-y-4 mx-auto max-w-screen-xl">
-        {questions.map(({ question, answer }, index, _) => (
+        {questions.map(({question, answer}, index, _) => (
           <motion.details
             key={index}
             {...variants("up", 0.1)}
@@ -56,6 +58,9 @@ export default function FAQS() {
             </p>
           </motion.details>
         ))}
+        <motion.div {...variants("up", 0.1)} className={" flex justify-center pt-8"}>
+          <Link href={"/"} className={"btn-primary flex items-center justify-center gap-4 md:max-w-72 hover:text-gray-800"}><Whatsapp variant={"TwoTone"}/>{btn}</Link>
+        </motion.div>
       </div>
     </section>
   );

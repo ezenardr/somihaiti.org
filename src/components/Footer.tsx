@@ -30,7 +30,7 @@ export default function FooterSection() {
           </motion.p>
           <motion.div
             {...variants("up", 0.2)}
-            className="mt-12 text-center md:max-w-64"
+            className="mt-12 text-center md:max-w-72"
           >
             <Link
               href={`/${locale}/donate`}

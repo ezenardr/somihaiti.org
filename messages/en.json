@@ -2,20 +2,20 @@
   "Home": {
     "heroSection": {
       "title": "Strengthening communities through health and support services.",
-      "description": "Where compassion meets action in our mission to support orphans and individuals living with HIV/AIDS",
+      "description": "Where compassion meets action in our mission to support orphans and individuals living with HIV",
       "more": "Learn more",
       "donate": "Donate"
     },
     "aboutSection": {
       "subtitle": "Salut Orphelins et Malades Infectés",
       "title": "We believe in fostering resilience, promoting inclusion, and empowering communities",
-      "content1": "Established in December 2018 in Les Cayes, Haiti. As a non-profit organization, our primary goal is to provide vital assistance to orphaned children and individuals living with HIV/AIDS in Haiti. Despite the numerous challenges faced, including pervasive discrimination, SOMI remains steadfast in its commitment to offering holistic support. We prioritize psychological and economic aid for persons living with HIV/AIDS, ensuring access to treatment and promoting adherence. Additionally, we extend educational assistance and medical care to orphaned children, aiming to alleviate their burdens and foster their growth.",
+      "content1": "Established in December 2018 in Les Cayes, Haiti. As a non-profit organization, our primary goal is to provide vital assistance to orphaned children and individuals living with HIV/AIDS in Haiti. Despite the numerous challenges faced, including pervasive discrimination, SOMI remains steadfast in its commitment to offering holistic support. We prioritize psychological and economic aid for persons living with HIV/AIDS, ensuring access to treatment and promoting adherence. Additionally, we provide educational assistance and medical care to orphaned children, aiming to support their development and growth.",
       "content2": "Through our initiatives, we strive to combat stigma, promote social inclusion, and empower communities to build resilient futures. SOMI Haiti is dedicated to making a lasting impact on the lives of those we serve, promoting dignity, hope, and well-being."
     },
     "goalSection": {
       "subtitle": "Building a Better Future Together",
       "title": "Creating positive change in our community",
-      "description": "Our organisation is dedicated to making a lasting impact on the by resources and support to those in need. Through our programs and, we strive to empower individuals and create positive change.",
+      "description": "Our organisation is dedicated to making a lasting impact on life by resources and support to those in need. Through our programs and, we strive to empower individuals and create positive change.",
       "content1": {
         "title": "Health Care",
         "description": "We are dedicated to ensuring access to healthcare services for all. Our goal is to provide comprehensive healthcare and support services to individuals living with HIV/AIDS. We strive to improve health outcomes and promote well-being for all."
@@ -56,7 +56,7 @@
       },
       "content2": {
         "title": "Making a Difference",
-        "description": "As a volunteer with SOMI Haiti, I've seen firsthand the impact of their work. They are truly making a difference in the lives of those they serve."
+        "description": "As a volunteer with SOMI Haiti, I can say that their work is noble towards people living with HIV. They truly make a difference in the lives of those they serve."
       },
       "content3": {
         "title": "Transforming Futures",
@@ -64,12 +64,13 @@
       }
     },
     "teamSection": {
-      "name": "Mrs Gigie Clotaire",
-      "description": "The dedicated leader behind SOMI. With her passion, Mrs Clotaire has been instrumental in guiding our organization towards its mission of Strengthening communities through health and support services. She brings a wealth of experience and a commitment to making a positive impact in the lives of our beneficiary. Mrs Clotaire leads our team with integrity, compassion, and a vision for a better future."
+      "name": "Rose-Gilène Clotaire",
+      "description": "The dedicated leader behind SOMI. With her passion, Gigie Clotaire has been instrumental in guiding our organization towards its mission of Strengthening communities through health and support services. She brings a wealth of experience and a commitment to making a positive impact in the lives of our beneficiary. She leads our team with integrity, compassion, and a vision for a better future."
     },
     "faqs": {
       "subtitle": "Find Quick Answers",
       "title": "Frequently asked questions",
+      "btn" : "More questions ?",
       "questions": [
         {
           "question": "What is SOMI Haiti?",

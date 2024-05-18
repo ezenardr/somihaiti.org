@@ -2,20 +2,20 @@
   "Home": {
     "heroSection": {
       "title": "Renforcer les communautés grâce aux services de santé et de soutien.",
-      "description": "Là où la compassion rencontre l'action dans notre mission de soutien aux orphelins et aux personnes vivant avec le VIH/sida.",
+      "description": "Là où la compassion rencontre l'action dans notre mission de soutien aux orphelins et aux personnes vivant avec le VIH.",
       "more": "En savoir plus",
       "donate": "Faire un don"
     },
     "aboutSection": {
       "subtitle": "Salut Orphelins et Malades Infectés",
       "title": "Nous croyons en la promotion de la résilience, la promotion de l'inclusion et l'autonomisation des communautés.",
-      "content1": "Établie en décembre 2018 à Les Cayes, Haïti. En tant qu'organisation à but non lucratif, notre objectif principal est de fournir une assistance vitale aux enfants orphelins et aux personnes vivant avec le VIH/sida en Haïti. Malgré les nombreux défis rencontrés, y compris la discrimination généralisée, SOMI reste résolument engagé dans son soutien holistique. Nous accordons la priorité à l'aide psychologique et économique aux personnes vivant avec le VIH/sida, en garantissant l'accès au traitement et en promouvant l'adhésion. De plus, nous offrons une assistance éducative et des soins médicaux aux enfants orphelins, dans le but d'alléger leurs fardeaux et de favoriser leur croissance.",
+      "content1": "Établie en décembre 2018 au Les Cayes, Haïti. En tant qu'organisation à but non lucratif, notre objectif principal est de fournir une assistance vitale aux enfants orphelins et aux personnes vivant avec le VIH/sida en Haïti. Malgré les nombreux défis rencontrés, y compris la discrimination généralisée, SOMI reste résolument engagé dans son soutien holistique. Nous accordons la priorité à l'aide psychologique et économique aux personnes vivant avec le VIH/sida, en garantissant l'accès au traitement et en promouvant l'adhésion. De plus, nous offrons une assistance éducative et des soins médicaux aux enfants orphelins, dans le but de les accompagner vers leurs épanouissement et leur croissance.",
       "content2": "À travers nos initiatives, nous nous efforçons de lutter contre la stigmatisation, de promouvoir l'inclusion sociale et d'autonomiser les communautés pour construire des avenirs résilients. SOMI Haïti s'engage à avoir un impact durable sur la vie de ceux que nous servons, en promouvant la dignité, l'espoir et le bien-être."
     },
     "goalSection": {
       "subtitle": "Construire un Avenir Meilleur Ensemble",
       "title": "Créer un changement positif dans notre communauté",
-      "description": "Notre organisation est dédiée à avoir un impact durable sur la par le biais de ressources et de soutien aux personnes dans le besoin. À travers nos programmes et, nous nous efforçons d'autonomiser les individus et de créer un changement positif.",
+      "description": "Notre organisation est dédiée à avoir un impact durable sur la vie par le biais de ressources et de soutien aux personnes dans le besoin. À travers nos programmes et, nous nous efforçons d'autonomiser les individus et de créer un changement positif.",
       "content1": {
         "title": "Soins de santé",
         "description": "Nous nous engageons à garantir l'accès aux services de santé pour tous. Notre objectif est de fournir des soins de santé complets et des services de soutien aux personnes vivant avec le VIH/sida. Nous nous efforçons d'améliorer les résultats de santé et de promouvoir le bien-être pour tous."
@@ -56,7 +56,7 @@
       },
       "content2": {
         "title": "Faire une différence",
-        "description": "En tant que bénévole chez SOMI Haiti, j'ai vu de mes propres yeux l'impact de leur travail. Ils font vraiment une différence dans la vie de ceux qu'ils servent."
+        "description": "En tant que bénévole chez SOMI Haiti, je peux dire que leurs travail est noble envers les personnes vivant avec le VIH. Ils font vraiment une différence dans la vie de ceux qu'ils servent."
       },
       "content3": {
         "title": "Transformer les futurs",
@@ -64,12 +64,13 @@
       }
     },
     "teamSection": {
-      "name": "Mme Gigie Clotaire",
-      "description": "Le leader dévoué derrière SOMI. Avec sa passion, Mme Clotaire a joué un rôle essentiel en guidant notre organisation vers sa mission de renforcer les communautés grâce à des services de santé et de soutien. Elle apporte une richesse d'expérience et s'engage à avoir un impact positif dans la vie de nos bénéficiaires. Mme Clotaire dirige notre équipe avec intégrité, compassion et une vision d'un avenir meilleur."
+      "name": "Rose-Gilène Clotaire",
+      "description": "Le leader dévoué derrière SOMI. Avec sa passion, Gigie Clotaire a joué un rôle essentiel en guidant notre organisation vers sa mission de renforcer les communautés grâce à des services de santé et de soutien. Elle apporte une richesse d'expérience et s'engage à avoir un impact positif dans la vie de nos bénéficiaires. Elle dirige notre équipe avec intégrité, compassion et une vision d'un avenir meilleur."
     },
     "faqs": {
       "subtitle": "Trouvez des réponses rapides",
       "title": "Foire aux questions",
+      "btn" : "Plus de question ?",
       "questions": [
         {
           "question": "Qu'est-ce que SOMI Haiti ?",
@@ -77,7 +78,7 @@
         },
         {
           "question": "Y at-il une différence entre VIH et SIDA?",
-          "answer": "Oui.-Le virus de l’immunodéficience humaine (VIH) est une infection qui attaque le système immunitaire de l’organisme, en particulier les globules blancs. Cependant le VIH met en général plusieurs années avant de détruire les défenses immunitaires. On ne parle de SIDA que lorsqu’une personne développe une maladie opportuniste. Quand une personne a le SIDA c’est qu’elle est déjà forcément infectée par le VIH. Mais toutes personnes infectées par le VIH ne développent pas forcément le SIDA."
+          "answer": "Oui. - Le Virus de l’Immunodéficience Humaine (VIH) est une infection qui attaque le système immunitaire de l’organisme, en particulier les globules blancs. Cependant le VIH met en général plusieurs années avant de détruire les défenses immunitaires. On ne parle de SIDA que lorsqu’une personne développe une maladie opportuniste. Quand une personne a le SIDA c’est qu’elle est déjà forcément infectée par le VIH. Mais toutes personnes infectées par le VIH ne développent pas forcément le SIDA."
         },
         {
           "question": "Quel conseil clé pour un enfant né avec le VIH (transmission verticale)?",
@@ -89,7 +90,7 @@
         },
         {
           "question": "Une mère infectée par le VIH peut-elle donner naissance à un bébé sain?",
-          "answer": " Oui, c'est possible. Cette mère doit avoir un résultat de charge virale indétectable. Ensuite, dès les premiers mois de sa grossesse, elle doit se rendre à l'hopital pour être prise en charge, durant la période et jusqu'à l'accouchement."
+          "answer": " Oui, c'est possible. Cette mère doit avoir un résultat de charge virale indétectable. Ensuite, dès les premiers mois de sa grossesse, elle doit se rendre à l'hôpital pour être prise en charge, durant la période et jusqu'à l'accouchement."
         },
         {
           "question": "Une personne vivant avec le VIH peut-elle se permettre d'avoir un partenaire non infecté?",

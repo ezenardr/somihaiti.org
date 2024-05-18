@@ -3,6 +3,7 @@ import { DM_Sans } from "next/font/google";
 import "./globals.css";
 import { NextIntlClientProvider, useMessages } from "next-intl";
 import {ViewTransitions} from "next-view-transitions";
+import React from "react";
 
 const dm_Sans = DM_Sans({ subsets: ["latin"] });
 

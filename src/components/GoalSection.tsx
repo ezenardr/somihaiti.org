@@ -83,7 +83,7 @@ export default function GoalSection({ locale }: { locale: string }) {
         <center>
           <motion.div
             {...variants("up", 0.4)}
-            className="mt-12 text-center md:max-w-64"
+            className="mt-12 text-center md:max-w-72"
           >
             <Link
               href={`/${locale}/donate`}
