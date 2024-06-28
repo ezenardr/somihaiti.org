@@ -1,59 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="eba56176-82bb-40fe-82e4-47f57f93aa7b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.eslintrc.json" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintrc.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/discord.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/prettier.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/website.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/messages/en.json" beforeDir="false" afterPath="$PROJECT_DIR$/messages/en.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/messages/fr.json" beforeDir="false" afterPath="$PROJECT_DIR$/messages/fr.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/next.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/postcss.config.mjs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/[locale]/donate/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/[locale]/donate/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/[locale]/globals.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/[locale]/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/[locale]/icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/[locale]/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/[locale]/layout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/[locale]/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/[locale]/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/[locale]/privacy/page.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/sitemap.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/1.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/2.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/3.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/4.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/Clotaire.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/com.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/develop.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/logos/logo-simple.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/logos/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/moncash.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/somi.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/zelle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/AboutSection.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/DetailSection.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/FAQS.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Footer.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/GoalSection.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/HeroSection.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ImageSlider.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Navigation.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ReviewSection.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/TeamSection.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/global.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/i18n.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/i18n.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/middleware.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/middleware.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/utils/cn.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/utils/variant.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tailwind.config.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/[locale]/sitemap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +29,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/ezena/Documents/somihaiti.org/src/app/[locale]",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -100,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1719536505220</updated>
-      <workItem from="1719536507050" duration="502000" />
+      <workItem from="1719536507050" duration="840000" />
     </task>
     <servers />
   </component>
