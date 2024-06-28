@@ -1,157 +1,237 @@
 {
   "Home": {
+    "navigation": {
+      "home": "Accueil",
+      "about": "À propos de nous",
+      "events": "Événements",
+      "contact": "Contactez-nous",
+      "faq": "Questions fréquemment posées",
+      "donate": "Faire un don",
+      "lang": "English"
+    },
     "heroSection": {
       "title": "Renforcer les communautés grâce aux services de santé et de soutien.",
-      "description": "Là où la compassion rencontre l'action dans notre mission de soutien aux orphelins et aux personnes vivant avec le VIH.",
-      "more": "En savoir plus",
+      "description": "Là où la compassion rencontre l'action dans notre mission de soutien aux orphelins et aux personnes vivant avec le VIH",
+      "contact": "Contactez-nous",
       "donate": "Faire un don"
     },
     "aboutSection": {
       "subtitle": "Salut Orphelins et Malades Infectés",
-      "title": "Nous croyons en la promotion de la résilience, la promotion de l'inclusion et l'autonomisation des communautés.",
-      "content1": "Établie en décembre 2018 au Les Cayes, Haïti. En tant qu'organisation à but non lucratif, notre objectif principal est de fournir une assistance vitale aux enfants orphelins et aux personnes vivant avec le VIH/sida en Haïti. Malgré les nombreux défis rencontrés, y compris la discrimination généralisée, SOMI reste résolument engagé dans son soutien holistique. Nous accordons la priorité à l'aide psychologique et économique aux personnes vivant avec le VIH/sida, en garantissant l'accès au traitement et en promouvant l'adhésion. De plus, nous offrons une assistance éducative et des soins médicaux aux enfants orphelins, dans le but de les accompagner vers leurs épanouissement et leur croissance.",
-      "content2": "À travers nos initiatives, nous nous efforçons de lutter contre la stigmatisation, de promouvoir l'inclusion sociale et d'autonomiser les communautés pour construire des avenirs résilients. SOMI Haïti s'engage à avoir un impact durable sur la vie de ceux que nous servons, en promouvant la dignité, l'espoir et le bien-être."
+      "title": {
+        "first": "Découvrez ce qui nous rend différents",
+        "second": "des autres"
+      },
+      "description": "À travers nos initiatives, nous nous efforçons de combattre la stigmatisation, de promouvoir l'inclusion sociale et de permettre aux communautés de construire des avenirs résilients. SOMI Haïti est dédié à avoir un impact durable sur la vie de ceux que nous servons, en promouvant la dignité, l'espoir et le bien-être.",
+      "link": "Découvrir plus",
+      "project": {
+        "title": "Nous aidons plus de 15000 enfants",
+        "subtitle": "Faire un don pour la charité"
+      },
+      "date": "Depuis 2018"
     },
-    "goalSection": {
-      "subtitle": "Construire un Avenir Meilleur Ensemble",
-      "title": "Créer un changement positif dans notre communauté",
-      "description": "Notre organisation est dédiée à avoir un impact durable sur la vie par le biais de ressources et de soutien aux personnes dans le besoin. À travers nos programmes et, nous nous efforçons d'autonomiser les individus et de créer un changement positif.",
-      "content1": {
-        "title": "Soins de santé",
-        "description": "Nous nous engageons à garantir l'accès aux services de santé pour tous. Notre objectif est de fournir des soins de santé complets et des services de soutien aux personnes vivant avec le VIH/sida. Nous nous efforçons d'améliorer les résultats de santé et de promouvoir le bien-être pour tous."
+    "chooseSection": {
+      "subtitle": "Pourquoi nous choisir",
+      "title": {
+        "first": "Centre de don de confiance",
+        "second": "sans but lucratif"
       },
-      "content2": {
-        "title": "Éducation",
-        "description": "Nous croyons que l'éducation est la clé pour libérer le potentiel. À travers des bourses d'études, du tutorat et des programmes de soutien éducatif, nous visons à autonomiser ces enfants avec les connaissances et les compétences dont ils ont besoin pour construire un avenir plus radieux pour eux-mêmes et leurs communautés."
-      },
-      "content3": {
-        "title": "Développement communautaire",
-        "description": "Des communautés solides et résilientes sont la base du développement durable. Notre objectif est de favoriser le développement communautaire grâce à l'autonomisation économique, à l'inclusion sociale et aux projets d'amélioration des infrastructures."
-      },
-      "link": "Faire une contribution"
-    },
-    "detailSection": {
-      "subtitle": "Promouvoir le développement communautaire",
-      "title": "Faire une différence dans les communautés à travers le pays",
-      "description": "Grâce à nos efforts dédiés et à nos initiatives communautaires, nous avons réalisé des progrès significatifs dans des domaines tels que l'éducation, les soins de santé et la durabilité environnementale.",
-      "content1": {
-        "title": "Améliorer l'éducation et l'accès aux soins de santé pour tous",
-        "description": "Nous croyons en fournissant une éducation de qualité, des soins de santé et des programmes de développement communautaire pour autonomiser les individus et créer un changement positif. Nous visons à autonomiser les individus pour qu'ils atteignent leur plein potentiel."
-      },
-      "content2": {
-        "title": "Soutenir les objectifs de développement durable",
-        "description": "En soutenant notre organisation, vous ne faites pas seulement une différence dans la vie des individus et des communautés en Haïti, mais vous contribuez également à l'agenda mondial pour un monde plus prospère."
-      },
-      "content3": {
-        "title": "Construire des communautés fortes et résilientes",
-        "description": "Nous créons des environnements où les individus peuvent s'épanouir et surmonter les défis ensemble. Rejoignez-nous dans nos efforts pour autonomiser les communautés, promouvoir la résilience et créer un avenir plus radieux pour tous."
+      "tabContent": {
+        "Mission": "Nous visons à combattre la stigmatisation, promouvoir l'inclusion sociale et permettre aux communautés de se renforcer en offrant un soutien psychologique, une aide éducative, des services de santé et une aide économique. Grâce à nos efforts dévoués, nous nous efforçons de favoriser la résilience, la dignité et l'espoir parmi ceux que nous servons.",
+        "Vision": "Nous envisageons un avenir où les communautés sont autonomes, résilientes et inclusives, avec des opportunités égales pour tous. SOMI Haïti s'engage à créer un changement positif durable et à construire un avenir plus lumineux et plus sain pour le peuple haïtien."
       }
     },
-    "reviewSection": {
-      "title": "Ce que les autres disent de nous",
-      "description": "Votre témoignage peut aider à inspirer les autres et à démontrer la puissance du soutien communautaire pour créer un changement significatif. Contactez-nous dès aujourd'hui pour partager votre histoire.",
-      "content1": {
-        "title": "Gratitude envers les soins de santé",
-        "description": "SOMI Haiti m'a fourni les services de santé dont j'avais désespérément besoin. Je leur suis éternellement reconnaissant pour leur soutien dans mon parcours vers une meilleure santé."
+    "causeSection": {
+      "subtitle": "Nos Causes",
+      "title": {
+        "first": "Nous aidons plus de",
+        "second": "9000 enfants",
+        "third": "chaque année"
       },
-      "content2": {
-        "title": "Faire une différence",
-        "description": "En tant que bénévole chez SOMI Haiti, je peux dire que leurs travail est noble envers les personnes vivant avec le VIH. Ils font vraiment une différence dans la vie de ceux qu'ils servent."
-      },
-      "content3": {
-        "title": "Transformer les futurs",
-        "description": "L'engagement envers l'éducation de l'équipe de SOMI Haiti a transformé l'avenir de nombreux enfants. J'ai vu la différence que cela fait de mes propres yeux, et je suis fier de soutenir leur mission."
+      "description": "Notre organisation est dédiée à avoir un impact durable sur la vie en fournissant des ressources et un soutien à ceux qui en ont besoin.",
+      "content": {
+        "Health Care": "Nous nous engageons à assurer l'accès aux services de santé pour tous. Nous nous efforçons d'améliorer les résultats de santé et de promouvoir le bien-être.",
+        "Education": "Nous visons à donner à ces enfants les connaissances et les compétences dont ils ont besoin pour construire un avenir plus radieux pour eux-mêmes et leurs communautés.",
+        "Empowerment": "Favoriser le développement communautaire grâce à l'autonomisation économique, aux projets d'amélioration sociale et des infrastructures."
       }
     },
-    "teamSection": {
-      "name": "Rose-Gilène Clotaire",
-      "description": "Le leader dévoué derrière SOMI. Avec sa passion, Gigie Clotaire a joué un rôle essentiel en guidant notre organisation vers sa mission de renforcer les communautés grâce à des services de santé et de soutien. Elle apporte une richesse d'expérience et s'engage à avoir un impact positif dans la vie de nos bénéficiaires. Elle dirige notre équipe avec intégrité, compassion et une vision d'un avenir meilleur."
+    "featuresSection": {
+      "subtitle": "Nos caractéristiques",
+      "title": {
+        "first": "Comment pouvez-vous",
+        "second": "aider?"
+      },
+      "description": "Avec votre aide, nous pouvons faire une différence dans la vie de ceux qui en ont besoin. Rejoignez-nous dans notre mission aujourd'hui!",
+      "content1": {
+        "Improving Education and Healthcare Access": "Nous visons à autonomiser les individus pour qu'ils atteignent leur plein potentiel.",
+        "Supporting Sustainable Development Goals": "Contribuer à l'agenda mondial plus large pour un monde plus prospère.",
+        "Building Strong and Resilient Communities": "Nous créons des environnements où les individus peuvent prospérer et surmonter les défis ensemble."
+      },
+      "link": "Faire un don",
+      "content2": {
+        "Become an Volunteer": "Ensemble, nous pouvons favoriser la résilience, promouvoir l'inclusion et autonomiser nos communautés.",
+        "Quick Fundraising": "Votre soutien nous permet de fournir des services essentiels et un soutien à ceux qui en ont besoin",
+        "Start Donating": "Vos dons fournissent un soutien vital et des services aux enfants orphelins et aux individus"
+      }
     },
-    "faqs": {
-      "subtitle": "Trouvez des réponses rapides",
-      "title": "Foire aux questions",
-      "btn" : "Plus de question ?",
-      "questions": [
-        {
-          "question": "Qu'est-ce que SOMI Haiti ?",
-          "answer": "SOMI Haiti, qui signifie 'Salut Orphelins et Malades Infectés', est une organisation à but non lucratif fondée en décembre 2018 par Mme. Rose-Gilène Clotaire à Les Cayes, Haïti. Notre mission est de fournir un soutien et une assistance aux enfants orphelins et aux personnes vivant avec le VIH/sida."
+    "eventSection": {
+      "subtitle": "Nos événements",
+      "title": {
+        "first": "événement",
+        "second": "à venir"
+      },
+      "description": "Nos événements offrent des opportunités de soutenir notre mission et de se connecter avec des personnes partageant les mêmes idées",
+      "content": {
+        "Journée récréative pour les enfants": {
+          "date": "30 juillet 2024",
+          "location": "Torbeck, CY",
+          "description": "Après une année sur le chemin de l'école, il est bon de partir à l'aventure. Retrouvez les enfants pour une journée de jeux et de détente."
         },
-        {
-          "question": "Y at-il une différence entre VIH et SIDA?",
-          "answer": "Oui. - Le Virus de l’Immunodéficience Humaine (VIH) est une infection qui attaque le système immunitaire de l’organisme, en particulier les globules blancs. Cependant le VIH met en général plusieurs années avant de détruire les défenses immunitaires. On ne parle de SIDA que lorsqu’une personne développe une maladie opportuniste. Quand une personne a le SIDA c’est qu’elle est déjà forcément infectée par le VIH. Mais toutes personnes infectées par le VIH ne développent pas forcément le SIDA."
+        "Campagne de Sensibilisation": {
+          "date": "13-15 août 2024",
+          "location": "Gelée, CY",
+          "description": "Un rendez-vous annuel à l'occasion de la fête patronale de la ville des Cayes. Période de sensibilisation aux MST et distribution de préservatifs."
         },
-        {
-          "question": "Quel conseil clé pour un enfant né avec le VIH (transmission verticale)?",
-          "answer": "La vie reste et demeure un cadeau précieux. Il ne faut pas vous sous-estimer. Ne vous laissez pas intimider, aucune forme de discrimination ne doit vous atteindre. Travaillez dur pour vos objectifs! Allez au bout de vos rêves!"
+        "Clinique mobile": {
+          "date": "30 juillet 2024",
+          "location": "Torbeck, CY",
+          "description": "Un rendez-vous annuel à l'occasion de la fête patronale de la ville des Cayes. Période de sensibilisation aux MST et distribution de préservatifs."
         },
-        {
-          "question": "Puis-je faire un don à SOMI Haiti ?",
-          "answer": "Oui, vous pouvez faire un don à SOMI Haiti pour soutenir nos programmes et nos initiatives. Vos dons nous aident à fournir une assistance vitale aux enfants orphelins et aux personnes vivant avec le VIH/sida en Haïti. Visitez notre page 'Faire un don' pour en savoir plus sur la manière dont vous pouvez contribuer."
+        "Distribution de kits scolaires": {
+          "date": "5 septembre 2024",
+          "location": "Cayes",
+          "description": "Rencontrer les familles en difficulté financière pour permettre aux enfants d'accueillir la nouvelle année scolaire avec joie."
         },
-        {
-          "question": "Une mère infectée par le VIH peut-elle donner naissance à un bébé sain?",
-          "answer": " Oui, c'est possible. Cette mère doit avoir un résultat de charge virale indétectable. Ensuite, dès les premiers mois de sa grossesse, elle doit se rendre à l'hôpital pour être prise en charge, durant la période et jusqu'à l'accouchement."
+        "Support financier pour 100 enfants": {
+          "date": "5 septembre 2024",
+          "location": "Cayes",
+          "description": "Rencontrer les familles en difficulté financière pour permettre aux enfants d'accueillir la nouvelle année scolaire avec joie."
         },
-        {
-          "question": "Une personne vivant avec le VIH peut-elle se permettre d'avoir un partenaire non infecté?",
-          "answer": " Oui. Dans le cas où la personne infectée a un charge virale indétectable, cela signifie qu'elle ne peut transmettre le virus. Dans le cas contraire, le partenaire non infecté peut choisir le PREP ou les deux (2) décident ensemble de faire usage du préservatif."
+        "Conférence et atelier": {
+          "date": "1 décembre 2024",
+          "location": "Cayes",
+          "description": "Profitant de la Journée Internationale de Lutte contre le VIH-SIDA, une bonne occasion d'échanger avec les jeunes de la communauté. Conférence et atelier sous le thème Jeunes PVVIH en Haïti! Rêves et défis sociaux."
+        },
+        "Soirée de levée de fonds": {
+          "date": "décembre 2024",
+          "location": "Cayes",
+          "description": "SOMI a de nombreux projets à long terme pour le bénéfice des personnes infectées et affectées. Cette soirée sera organisée dans le but de permettre aux bienfaiteurs de participer à cette noble cause et de contribuer au bien-être des personnes vivant avec le VIH."
         }
-      ]
+      }
+    },
+    "becomeVolunteer": {
+      "subtitle": "Bénévole",
+      "title": {
+        "first": "Devenir",
+        "second": "bénévole"
+      },
+      "description": "Rejoignez-nous pour avoir un impact significatif en offrant votre temps et vos compétences",
+      "form": {
+        "name": "Votre nom",
+        "email": "Votre email",
+        "phone": "Numéro de téléphone",
+        "date": "Date de naissance",
+        "message": "Écrivez votre message",
+        "link": "Envoyez-nous un message"
+      }
+    },
+    "volunteerSection": {
+      "subtitle": "Nos bénévoles",
+      "title": {
+        "first": "Rencontrez",
+        "second": "nos bénévoles"
+      },
+      "description": "Leur dévouement, leur passion et leur travail acharné font avancer notre mission, faisant une différence tangible dans la vie des enfants orphelins et des personnes vivant avec le VIH",
+      "content": {
+        "Rose-Gilène Clotaire": {
+          "role": "Bénévole"
+        },
+        "Rodolphe Ezenard": {
+          "role": "Responsable Digital, Bénévole"
+        }
+      }
+    },
+    "TestimonialSection": {
+      "text": "SOMI Haiti m'a fourni les services de santé dont j'avais désespérément besoin. Je suis éternellement reconnaissant pour leur soutien dans mon parcours vers une meilleure santé",
+      "author": "Anonyme",
+      "location": "Les Cayes, Haïti"
+    },
+    "faq": {
+      "subtitle": "FAQ",
+      "title": {
+        "first": "Comment pouvons-nous",
+        "second": "vous aider?"
+      },
+      "description": "Trouvez les informations dont vous avez besoin pour mieux comprendre notre travail et comment vous pouvez soutenir nos efforts pour autonomiser les communautés et promouvoir le bien-être"
+    },
+    "cta": {
+      "title": {
+        "first": "Bienvenue pour sauver des vies et faire un",
+        "second": "impact positif"
+      },
+      "description": "C'est seulement lorsque la société se rassemble et contribue que nous pourrons faire une différence.",
+      "link": "Faire un don maintenant"
+    },
+    "blogSection": {
+      "subtitle": "Notre blog",
+      "title": {
+        "first": "Nos dernières",
+        "second": "nouvelles et mises à jour"
+      },
+      "description": "Ici, nous partageons des histoires de résilience, des mises à jour sur nos projets, des perspectives d'experts sur le VIH et des nouvelles sur le développement communautaire"
     },
     "footer": {
-      "title": "Connectez-vous avec SOMI Haiti",
-      "description": "Avec votre aide, nous pouvons faire la différence dans la vie de ceux dans le besoin. Rejoignez-nous dans notre mission dès aujourd'hui !",
+      "title": "Connectez-vous avec SOMI Haïti",
+      "description": "Avec votre aide, nous pouvons faire une différence dans la vie de ceux qui en ont besoin. Rejoignez-nous dans notre mission aujourd'hui!",
       "donate": "Faire une contribution",
-      "terms": "Conditions d'utilisation",
+      "terms": "Termes et conditions",
       "privacy": "Politique de confidentialité",
-      "right" : "Tout droits réservés"
+      "right": "Tous droits réservés"
     }
+  },
+  "Contact": {
+    "subtitle": "Besoin d'aide",
+    "title": "Contactez-nous",
+    "description": "Nous créons des environnements où les individus peuvent prospérer et surmonter les défis ensemble. Rejoignez-nous dans nos efforts pour autonomiser les communautés, promouvoir la résilience et créer un avenir meilleur pour tous.",
+    "name": "Votre nom",
+    "email": "Adresse email",
+    "phone": "Numéro de téléphone",
+    "dob": "Date de naissance",
+    "message": "Écrivez vos messages",
+    "address": "Adresse de l'office",
+    "cta": "Envoyez-nous un message"
   },
   "privacy": {
     "title": "Politique de confidentialité",
-    "description": "Cette page décrit nos pratiques en matière de collecte, d'utilisation et de divulgation de données personnelles et explique comment nous protégeons vos informations.",
+    "description": "Cette page présente nos pratiques concernant la collecte, l'utilisation et la divulgation des données personnelles et explique comment nous protégeons vos informations.",
     "content": [
       {
         "section": "Informations que nous collectons",
-        "content": "Nous ne collectons aucune information personnelle auprès des visiteurs de notre site Web. Les informations personnelles font référence aux données pouvant être utilisées pour identifier une personne, telles que le nom, l'adresse e-mail ou le numéro de téléphone. Vous pouvez naviguer sur notre site de manière anonyme sans avoir à divulguer de données personnelles."
+        "content": "Nous ne collectons aucune information personnelle des visiteurs de notre site Web. Les informations personnelles se réfèrent à des données pouvant être utilisées pour identifier une personne, telles que le nom, l'adresse e-mail ou le numéro de téléphone. Vous pouvez naviguer sur notre site de manière anonyme sans avoir à divulguer des données personnelles."
       },
       {
         "section": "Cookies et autres technologies de suivi",
-        "content": "Nous n'utilisons pas de cookies ni d'autres technologies de suivi sur notre site Web. Les cookies sont de petits fichiers stockés sur votre appareil et utilisés pour suivre votre comportement de navigation. Bien que nous n'utilisions pas de cookies nous-mêmes, veuillez noter que les services tiers intégrés à notre site, tels que les vidéos intégrées ou les widgets de médias sociaux, peuvent utiliser des cookies ou des technologies similaires. Nous n'avons pas le contrôle sur ces services tiers et vous encourageons à consulter leurs politiques de confidentialité."
+        "content": "Nous n'utilisons pas de cookies ni d'autres technologies de suivi sur notre site Web. Les cookies sont de petits fichiers stockés sur votre appareil utilisés pour suivre votre comportement de navigation. Bien que nous n'utilisions pas de cookies nous-mêmes, veuillez noter que les services tiers intégrés à notre site, tels que les vidéos intégrées ou les widgets de réseaux sociaux, peuvent utiliser des cookies ou des technologies similaires. Nous n'avons aucun contrôle sur ces services tiers et nous vous encourageons à consulter leurs politiques de confidentialité."
       },
       {
-        "section": "Liens vers des tiers",
-        "content": "Notre site Web peut contenir des liens vers des sites Web tiers pour votre commodité. Ces sites tiers ont leurs propres politiques de confidentialité, qui peuvent différer des nôtres. Nous ne sommes pas responsables des pratiques de confidentialité ou du contenu de ces sites Web. Nous vous encourageons à consulter les politiques de confidentialité de tous les sites tiers que vous visitez."
+        "section": "Liens tiers",
+        "content": "Notre site Web peut contenir des liens vers des sites Web tiers pour votre commodité. Ces sites tiers ont leurs propres politiques de confidentialité, qui peuvent différer des nôtres. Nous ne sommes pas responsables des pratiques de confidentialité ou du contenu de ces sites Web. Nous vous encourageons à consulter les politiques de confidentialité de tout site tiers que vous visitez."
       },
       {
         "section": "Confidentialité des enfants",
-        "content": "Notre site Web n'est pas destiné aux enfants de moins de 13 ans, et nous ne collectons pas sciemment d'informations personnelles auprès d'enfants. Si vous avez moins de 13 ans, veuillez ne pas fournir d'informations personnelles sur notre site Web. Si vous pensez que nous avons collecté involontairement des informations personnelles auprès d'un enfant de moins de 13 ans, veuillez nous contacter immédiatement, et nous prendrons les mesures appropriées pour supprimer ces informations."
+        "content": "Notre site Web ne s'adresse pas aux enfants de moins de 13 ans, et nous ne collectons pas sciemment d'informations personnelles auprès des enfants. Si vous avez moins de 13 ans, veuillez ne fournir aucune information personnelle sur notre site Web. Si vous pensez que nous avons pu recueillir involontairement des informations personnelles auprès d'un enfant de moins de 13 ans, veuillez nous contacter immédiatement et nous prendrons les mesures appropriées pour supprimer ces informations."
       },
       {
         "section": "Sécurité des données",
-        "content": "Bien que nous ne collectons pas de données personnelles, nous prenons des mesures de sécurité appropriées pour protéger toutes les informations non personnelles collectées via notre site Web contre tout accès, divulgation, altération ou destruction non autorisés. Nous examinons régulièrement nos procédures de sécurité pour nous assurer qu'elles sont à jour et efficaces."
+        "content": "Bien que nous ne collections pas de données personnelles, nous prenons des mesures de sécurité appropriées pour protéger toute information non personnelle collectée via notre site Web contre l'accès non autorisé, la divulgation, la modification ou la destruction. Nous examinons régulièrement nos procédures de sécurité pour nous assurer qu'elles sont à jour et efficaces."
       },
       {
         "section": "Modifications de cette politique",
-        "content": "Nous pouvons mettre à jour cette politique de confidentialité de temps à autre pour refléter les changements dans nos pratiques ou les exigences légales. Toutes les modifications seront publiées sur cette page, et la date d'entrée en vigueur sera indiquée en haut de la page. Nous vous encourageons à consulter régulièrement cette politique de confidentialité pour toute modification. Votre utilisation continue du site après la publication des modifications constitue votre acceptation de ces modifications."
+        "content": "Nous pouvons mettre à jour cette politique de confidentialité de temps à autre pour refléter les changements dans nos pratiques ou les exigences légales. Toute modification sera publiée sur cette page et la date d'entrée en vigueur sera indiquée en haut de la page. Nous vous encourageons à consulter périodiquement cette politique de confidentialité pour tout changement. Votre utilisation continue du site après la publication des modifications constitue votre acceptation de ces changements."
       },
       {
         "section": "Contactez-nous",
-        "content": "Si vous avez des questions ou des préoccupations concernant notre politique de confidentialité ou les pratiques de notre site Web, veuillez nous contacter à [adresse e-mail ou adresse]. Nous nous engageons à répondre rapidement et en toute transparence à toute demande ou plainte."
+        "content": "Si vous avez des questions ou des préoccupations concernant notre politique de confidentialité ou les pratiques de notre site Web, veuillez nous contacter à [adresse e-mail ou adresse]. Nous nous engageons à répondre à toute demande ou plainte rapidement et de manière transparente."
       }
     ]
-  },
-  "donate": {
-    "hero": {
-      "first": "Faites",
-      "afterFirst": "la Différence ! Faites un",
-      "second": " Don",
-      "afterSecond": "Aujourd'hui",
-      "description": "Chaque contribution nous aide à fournir un soutien essentiel, de l'aide à l'éducation aux services de santé, et favorise un changement positif dans nos communautés. Rejoignez-nous pour faire une différence et faites un don dès aujourd'hui !"
-    },
-    "donateSection": {
-      "zelle": "Pour faire un don via Zelle, veuillez utiliser les informations suivantes : Nom du bénéficiaire : SOMI Haiti; Email : donate@somihaiti.org. Soutenir SOMI Haiti par Zelle est un moyen rapide et sécurisé de faire une différence. Vos contributions généreuses nous aident à fournir une assistance vitale aux enfants orphelins et aux personnes vivant avec le VIH.",
-      "moncash": "Pour faire un don via MonCash, veuillez utiliser les informations suivantes : Nom du bénéficiaire : SOMI Haiti;  Numéro de téléphone : [Numéro MonCash du bénéficiaire].  Votre générosité nous aide dans nos efforts pour fournir un soutien éducatif, des soins médicaux et d'autres services essentiels. Chaque contribution, quelle que soit sa taille, joue un rôle vital pour nous aider à améliorer et à autonomiser nos communautés. Merci de vous associer à nous pour faire une différence positive."
-    }
   }
 }

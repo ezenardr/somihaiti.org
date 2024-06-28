@@ -1,102 +1,182 @@
 {
   "Home": {
+    "navigation" : {
+      "home": "Home",
+      "about" : "About Us",
+      "events" : "Events",
+      "contact" : "Contact Us",
+      "faq" : "Frequently Asked Questions",
+      "donate" : "Donate now",
+      "lang" : "Français"
+    },
     "heroSection": {
       "title": "Strengthening communities through health and support services.",
       "description": "Where compassion meets action in our mission to support orphans and individuals living with HIV",
-      "more": "Learn more",
-      "donate": "Donate"
+      "contact": "Contact Us",
+      "donate": "Donate Now"
     },
     "aboutSection": {
       "subtitle": "Salut Orphelins et Malades Infectés",
-      "title": "We believe in fostering resilience, promoting inclusion, and empowering communities",
-      "content1": "Established in December 2018 in Les Cayes, Haiti. As a non-profit organization, our primary goal is to provide vital assistance to orphaned children and individuals living with HIV/AIDS in Haiti. Despite the numerous challenges faced, including pervasive discrimination, SOMI remains steadfast in its commitment to offering holistic support. We prioritize psychological and economic aid for persons living with HIV/AIDS, ensuring access to treatment and promoting adherence. Additionally, we provide educational assistance and medical care to orphaned children, aiming to support their development and growth.",
-      "content2": "Through our initiatives, we strive to combat stigma, promote social inclusion, and empower communities to build resilient futures. SOMI Haiti is dedicated to making a lasting impact on the lives of those we serve, promoting dignity, hope, and well-being."
+      "title": {
+        "first": "Check what makes us different",
+        "second": "than others"
+      },
+      "description": "Through our initiatives, we strive to combat stigma, promote social inclusion, and empower communities to build resilient futures. SOMI Haiti is dedicated to making a lasting impact on the lives of those we serve, promoting dignity, hope, and well-being.",
+      "link": "Discover More",
+      "project": {
+        "title": "We Help 15000+ Children",
+        "subtitle": "Donate for Charity"
+      },
+      "date": "Since 2018"
     },
-    "goalSection": {
-      "subtitle": "Building a Better Future Together",
-      "title": "Creating positive change in our community",
-      "description": "Our organisation is dedicated to making a lasting impact on life by resources and support to those in need. Through our programs and, we strive to empower individuals and create positive change.",
-      "content1": {
-        "title": "Health Care",
-        "description": "We are dedicated to ensuring access to healthcare services for all. Our goal is to provide comprehensive healthcare and support services to individuals living with HIV/AIDS. We strive to improve health outcomes and promote well-being for all."
+    "chooseSection": {
+      "subtitle": "Why choose Us",
+      "title": {
+        "first": "Trusted non profit donation",
+        "second": "Center"
       },
-      "content2": {
-        "title": "Education",
-        "description": "We believe that education is the key to unlocking potential. Through scholarships, tutoring, and educational support programs, we aim to empower these children with the knowledge and skills they need to build a brighter future for themselves and their communities."
-      },
-      "content3": {
-        "title": "Community Development",
-        "description": "Strong, resilient communities are the foundation of sustainable development. Our goal is to foster community development through economic empowerment, social inclusion, and infrastructure improvement projects."
-      },
-      "link": "Make a contribution"
-    },
-    "detailSection": {
-      "subtitle": "Promoting Community Development",
-      "title": "Making a difference in communities around the country",
-      "description": "Through our dedicated effort and community-driven initiatives, we made significant progress in area such as education, healthcare and environmental sustainability.",
-      "content1": {
-        "title": " Improving Education and Healthcare Access for All",
-        "description": "We believe in providing quality education, healthcare and community development programs to empower individuals and create positive change. We aim to empower individuals to reach their full potential."
-      },
-      "content2": {
-        "title": "Supporting Sustainable Development Goals",
-        "description": "By supporting our organization, you are not only making a difference in the lives of individuals and communities in Haiti but also contributing to the broader global agenda for a more prosperous world."
-      },
-      "content3": {
-        "title": "Building Strong and Resilient Communities",
-        "description": "We create environments where individuals can thrive and overcome challenges together. Join us in our efforts to empower communities, promote resilience, and create a brighter future for all."
+      "tabContent": {
+        "Mission": "We aim to combat stigma, promote social inclusion, and empower communities by offering psychological support, educational assistance, healthcare services, and economic aid. Through our dedicated efforts, we strive to foster resilience, dignity, and hope among those we serve.",
+        "Vision": "We envision a future where communities are empowered, resilient, and inclusive, with equal opportunities for all. SOMI Haiti is committed to creating lasting positive change and building a brighter, healthier future for the people of Haiti."
       }
     },
-    "reviewSection": {
-      "title": "What others are saying about Us",
-      "description": "Your testimonial can help inspire others and demonstrate the power of community support in creating meaningful change. Contact us to share your story today.",
-      "content1": {
-        "title": "Healthcare Gratitude",
-        "description": "SOMI Haiti provided me with the healthcare services I desperately needed. I'm forever grateful for their support in my journey towards better health."
+    "causeSection": {
+      "subtitle": "Our Causes",
+      "title": {
+        "first": "We Help More Than",
+        "second": "9k Children",
+        "third": "Every year"
       },
-      "content2": {
-        "title": "Making a Difference",
-        "description": "As a volunteer with SOMI Haiti, I can say that their work is noble towards people living with HIV. They truly make a difference in the lives of those they serve."
-      },
-      "content3": {
-        "title": "Transforming Futures",
-        "description": "The commitment to education by the team at SOMI Haiti has transformed the future for countless children. I've seen the difference it makes firsthand, and I'm proud to support their mission."
+      "description": "Our organisation is dedicated to making a lasting impact on life by resources and support to those in need.",
+      "content": {
+        "Health Care": "We are dedicated to ensuring access to healthcare services for all. We strive to improve health outcomes and promote well-being.",
+        "Education": "We aim to empower these children with the knowledge and skills they need to build a brighter future for themselves and their communities.",
+        "Empowerment": "Foster community development through economic empowerment, social and infrastructure improvement projects."
       }
     },
-    "teamSection": {
-      "name": "Rose-Gilène Clotaire",
-      "description": "The dedicated leader behind SOMI. With her passion, Gigie Clotaire has been instrumental in guiding our organization towards its mission of Strengthening communities through health and support services. She brings a wealth of experience and a commitment to making a positive impact in the lives of our beneficiary. She leads our team with integrity, compassion, and a vision for a better future."
+    "featuresSection": {
+      "subtitle": "Our Features",
+      "title": {
+        "first": "How Could",
+        "second": "You Help?"
+      },
+      "description": "With your help, we can make a difference in the lives of those in need. Join us in our mission today!",
+      "content1": {
+        "Improving Education and Healthcare Access": "We aim to empower individuals to reach their full potential.",
+        "Supporting Sustainable Development Goals": "Contributing to the broader global agenda for a more prosperous world.",
+        "Building Strong and Resilient Communities": "We create environments where individuals can thrive and overcome challenges together."
+      },
+      "link": "Donate Now",
+      "content2": {
+        "Become an Volunteer": "Together, we can foster resilience, promote inclusion, and empower our communities.",
+        "Quick Fundraising": " Your support enables us to provide essential services and support to those in need",
+        "Start Donating": "Your donations provide vital support and services to orphaned children and individuals"
+      }
     },
-    "faqs": {
-      "subtitle": "Find Quick Answers",
-      "title": "Frequently asked questions",
-      "btn" : "More questions ?",
-      "questions": [
-        {
-          "question": "What is SOMI Haiti?",
-          "answer": "SOMI Haiti, which stands for 'Salut Orphelins et Malades Infectés,' is a non-profit organization founded in December 2018 by Mrs. Rose-Gilène Clotaire in Les Cayes, Haiti. Our mission is to provide support and assistance to orphaned children and individuals living with HIV/AIDS."
+    "eventSection": {
+      "subtitle": "Our Events",
+      "title": {
+        "first": "Our",
+        "second": "Upcoming Event"
+      },
+      "description": "Our events provide opportunities to support our mission and connect with like-minded individuals",
+      "content": {
+        "Journée récréative pour les enfants": {
+          "date": "Jul 30, 2024",
+          "location": "Torbeck, CY",
+          "description" : "After a year on the way to school, it's good to go on an adventure. Meet up with the children for a day of games and relaxation."
         },
-        {
-          "question": "Is there a difference between HIV and AIDS?",
-          "answer": "Yes. - Human Immunodeficiency Virus (HIV) is an infection that attacks the body's immune system, particularly white blood cells. However, HIV typically takes several years before it destroys immune defenses. AIDS is only mentioned when a person develops an opportunistic disease. When a person has AIDS, they are already necessarily infected with HIV. But not all people infected with HIV necessarily develop AIDS."
+        "Campagne de Sensibilisation": {
+          "date": "Aug 13-15, 2024",
+          "location": "Gelée, CY",
+          "description" : "An annual meeting on the occasion of the patronal festival of the town of Les Cayes. Awareness period on STDs and distribution of condoms."
         },
-        {
-          "question": "What key advice for a child born with HIV (vertical transmission)?",
-          "answer": "Life remains and remains a precious gift. Do not underestimate yourself. Do not let yourself be intimidated, no form of discrimination should affect you. Work hard for your goals! Go after your dreams!"
+        "Clinique mobile": {
+          "date": "July 30, 2024",
+          "location": "Torbeck, CY",
+          "description" : "An annual meeting on the occasion of the patronal festival of the town of Les Cayes. Awareness period on STDs and distribution of condoms."
         },
-        {
-          "question": "Can I donate to SOMI Haiti?",
-          "answer": "Yes, you can donate to SOMI Haiti to support our programs and initiatives. Your donations help us provide vital assistance to orphaned children and individuals living with HIV/AIDS in Haiti. Visit our 'Donate' page to learn more about how you can contribute."
+        "Distribution de kits scolaires": {
+          "date": "Sep 5, 2024",
+          "location": "Cayes",
+          "description" : "Meeting families in financial difficulty to enable children to welcome the new academic year with joy."
         },
-        {
-          "question": "Can an HIV-infected mother give birth to a healthy baby?",
-          "answer": "Yes, it's possible. This mother must have an undetectable viral load result. Then, from the early months of her pregnancy, she must go to the hospital to be taken care of, during the period and up to delivery."
+        "Support financier pour 100 enfants": {
+          "date": "Sep 5, 2024",
+          "location": "Cayes",
+          "description" : "Meeting families in financial difficulty to enable children to welcome the new academic year with joy."
         },
-        {
-          "question": "Can a person living with HIV afford to have an uninfected partner?",
-          "answer": "Yes. In the case where the infected person has an undetectable viral load, this means that they cannot transmit the virus. Otherwise, the uninfected partner can choose PrEP or both (2) decide together to use condoms."
+        "Conférence et atelier": {
+          "date": "Dec 1, 2024",
+          "location": "Cayes",
+          "description" : "Taking advantage of the International Day for the Fight against HIV-AIDS, a good opportunity to have an exchange with young people in the community. Conference and workshop under the theme Young PLHIV in Haiti! Dreams and social challenges"
+        },
+        "Soirée de levée de fonds": {
+          "date" : "Dec, 2024",
+          "location" : "Cayes",
+          "description" : "SOMI has many long-term projects for the benefit of infected and affected people. This evening will be organized with the aim of allowing benefactors to take part in this noble cause and contribute to the well-being of people living with HIV."
         }
-      ]
+      }
+    },
+    "becomeVolunteer": {
+      "subtitle": "Volunteer",
+      "title": {
+        "first": "Become a",
+        "second": "Volunteer"
+      },
+      "description": "Join us in making a meaningful impact by volunteering your time and skills",
+      "form": {
+        "name": "Your Name",
+        "email": "Your Email",
+        "phone": "Phone Number",
+        "date": "Date Of Birth",
+        "message": "Write your message",
+        "link": "Send Us a Message"
+      }
+    },
+    "volunteerSection": {
+      "subtitle": "Our Volunteers",
+      "title": {
+        "first": "Meet with",
+        "second": "Our Volunteers"
+      },
+      "description": "Their dedication, passion, and hard work drive our mission forward, making a tangible difference in the lives of orphaned children and individuals living with HIV",
+      "content" : {
+        "Rose-Gilène Clotaire" : {
+          "role" : "Volunteer"
+        },"Rodolphe Ezenard" : {
+          "role" : "Digital Manager, Volunteer"
+        }
+      }
+    },
+    "TestimonialSection": {
+      "text": "SOMI Haiti provided me with the healthcare services I desperately needed. I'm forever grateful for their support in my journey towards better health",
+      "author": "Anonymous",
+      "location": "Les Cayes, Haiti"
+    },
+    "faq": {
+      "subtitle": "Faq",
+      "title": {
+        "first": "How Can We",
+        "second": "Help You?"
+      },
+      "description": "Find the information you need to better understand our work and how you can support our efforts to empower communities and promote well-being"
+    },
+    "cta": {
+      "title": {
+        "first": "Welcome To Save Life And Make A Positive",
+        "second": "Impact"
+      },
+      "description": "Only when the society comes together and contributes we will be able to make an impact.",
+      "link": "Donate Now"
+    },
+    "blogSection": {
+      "subtitle": "Our Blog Post",
+      "title": {
+        "first": "Our Latest",
+        "second": "News & Update"
+      },
+      "description": "Here, we share stories of resilience, updates on our projects, expert insights on HIV, and community development news"
     },
     "footer": {
       "title": "Connect with SOMI Haiti",
@@ -104,8 +184,20 @@
       "donate": "Make a contribution",
       "terms": "Terms and Conditions",
       "privacy": "Privacy Policy",
-      "right" : "All rights reserved"
+      "right": "All Rights Reserved"
     }
+  },
+  "Contact" : {
+    "subtitle" : "Need Help",
+    "title" : "Get in touch",
+    "description" : "We create environments where individuals can thrive and overcome challenges together. Join us in our efforts to empower communities, promote resilience, and create a brighter future for all.",
+    "name" : "Your Name",
+    "email" : "Email Address",
+    "phone" : "Phone Number",
+    "dob" : "Date Of Birth",
+    "message" : "Write Your Messages",
+    "address" : "Office Address",
+    "cta" : "Send us a message"
   },
   "privacy": {
     "title": "Privacy Policy",
@@ -140,18 +232,5 @@
         "content": "If you have any questions or concerns about our privacy policy or the practices of our website, please contact us at [contact email or address]. We are committed to addressing any inquiries or complaints promptly and transparently."
       }
     ]
-  },
-  "donate": {
-    "hero" : {
-      "first" : "Make",
-      "afterFirst" : "a Difference !",
-      "second" : "Donate",
-      "afterSecond" : "Today",
-      "description" : "Every contribution helps us provide essential support, from educational assistance to healthcare services, and promotes positive change in our communities. Join us in making a difference and donate today!"
-    },
-    "donateSection": {
-      "zelle": "To donate via Zelle, please use the following details: Recipient Name: SOMI ; Email: donate@somihaiti.org HaitiSupporting SOMI Haiti through Zelle is a fast and secure way to make a difference. Your generous contributions help us provide vital assistance to orphaned children and individuals living with HIV.",
-      "moncash": "To donate via MonCash, please use the following details: Nom du bénéficiaire : SOMI Haiti;  Numéro de téléphone : [Numéro MonCash du bénéficiaire].  Your generosity helps us in our efforts to provide educational support, medical care, and other essential services. Every contribution, no matter the size, plays a vital role in helping us uplift and empower our communities. Thank you for partnering with us to make a positive difference."
-    }
-   }
+  }
 }
