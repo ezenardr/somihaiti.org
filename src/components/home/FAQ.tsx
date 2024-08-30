@@ -23,7 +23,7 @@ function FAQ({locale}:{locale:string}) {
     {
       id: 1,
       question: "What is SOMI Haiti?",
-      answer: "SOMI Haiti, which stands for 'Salut Orphelins et Malades Infectés,' is a non-profit organization founded in December 2018 by Mrs. Rose-Gilène Clotaire in Les Cayes, Haiti. Our mission is to provide support and assistance to orphaned children and individuals living with HIV/AIDS.",
+      answer: "Our mission is to support orphaned children and individuals living with HIV by helping them find the support and assistance they need.",
       showAnswer: true,
     },
     {
@@ -42,7 +42,7 @@ function FAQ({locale}:{locale:string}) {
     {
       id: 1,
       question: "Qu'est-ce que SOMI Haiti ?",
-      answer: "SOMI Haiti, qui signifie 'Salut Orphelins et Malades Infectés', est une organisation à but non lucratif fondée en décembre 2018 par Mme Rose-Gilène Clotaire aux Cayes, Haïti. Notre mission est de fournir un soutien et une assistance aux enfants orphelins et aux personnes vivant avec le VIH/sida.",
+      answer: "Notre mission est d'accompagner les enfants orphelins et les personnent qui vivent avec le VIH en les aidant à trouver le soutien et l'assistance dont ils en ont besoin.",
       showAnswer: true
     },
     {
