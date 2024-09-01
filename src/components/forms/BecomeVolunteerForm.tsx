@@ -32,7 +32,10 @@ function BecomeVolunteerForm() {
    const { register, handleSubmit, reset, formState: { errors }, } = useForm<FormData>({ resolver: yupResolver(schema), });
    const onSubmit = (data: FormData) => {
       const notify = () => toast('Message sent successfully', { position: 'top-center' });
-      notify();
+      fetch('/api/contact', {
+         method : 'POST',
+         body: JSON.stringify(data)
+      }).then(()=>notify())
       reset();
    };
 

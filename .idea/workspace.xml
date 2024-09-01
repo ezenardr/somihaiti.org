@@ -5,16 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eba56176-82bb-40fe-82e4-47f57f93aa7b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/app/api/contact/route.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/messages/en.json" beforeDir="false" afterPath="$PROJECT_DIR$/messages/en.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/messages/fr.json" beforeDir="false" afterPath="$PROJECT_DIR$/messages/fr.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/home/FAQ.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/home/FAQ.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/common/SocialIcon.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/common/SocialIcon.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/forms/BecomeVolunteerForm.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/forms/BecomeVolunteerForm.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/forms/ContactForm.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/forms/ContactForm.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -58,7 +67,8 @@
       <option name="presentableId" value="Default" />
       <updated>1719536505220</updated>
       <workItem from="1719536507050" duration="840000" />
-      <workItem from="1725011167259" duration="1311000" />
+      <workItem from="1725011167259" duration="3396000" />
+      <workItem from="1725219051560" duration="1937000" />
     </task>
     <servers />
   </component>
